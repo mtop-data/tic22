@@ -1,0 +1,168 @@
+;  SAM: prettyalign v3.5 (July 15, 2005) compiled 03/03/09_13:52:04
+;  (c) 1992-2001 Regents of the University of California, Santa Cruz
+;
+;          Sequence Alignment and Modeling Software System
+;         http://www.cse.ucsc.edu/research/compbio/sam.html
+;
+; ----------------- Citations (SAM, SAM-T2K, HMMs) --------------------
+; R. Hughey, A. Krogh, Hidden Markov models for sequence analysis:
+;  Extension and analysis of the basic method, CABIOS 12:95-107, 1996.
+; K. Karplus, et al., What is the value added by human intervention in protein
+;  structure prediction, Proteins: Stucture, Function, Genetics 45(S5):86--91, 2001.
+; A. Krogh et al., Hidden Markov models in computational biology:
+;  Applications to protein modeling, JMB 235:1501-1531, Feb 1994.
+; ---------------------------------------------------------------------
+                                                                    10        20        30
+                                                                     |         |         |
+Sorghum_bicolor_Sb10g007160.1              mappdsistrsslplaa-APMSDPTPSPYAASPPPPNPLAAAASFLQ
+Zea_mays_GRMZM2G044875                     mappdsistcsslplaa-APMSEPTP-FPFAASPLPNPLVATASFLQ
+Arab._lyrata_913087                        messv............---KPNPFLSFSSFLHHHCTRFSSDLSARI
+Arab._thaliana_AT4G33350.1                 messv............---KPNPFLSFSSFIHHQCTRFSSDLSARI
+Glycine_max_Glyma04g04070.1                me...............SRGHSNPLLSFSSFIHQHCVRLGSDLATRL
+Glycine_max_Glyma06g04250.1                me...............SRGHSNPLLSFSSFIHQHCVRLGSDLATRL
+Medicago_truncatula_Medtr3g147870.1        me...............SQGQWNPLLSFSRFIHQNCNHL----ATRF
+Ricinus_communis_30170.m013883             me...............HSKLSNPLLSLSTFIHQHCLRLGAELSTRL
+Manihot_esculenta_cassava4.1_013683m       me...............PAKPSNPLLSLSTFIHQQCLRLGAELTTRL
+Manihot_esculenta_cassava4.1_013700m       me...............PTNPSNPLLSLSTFIHQHCVRLRAEFATRL
+GSVIVT01009503001_GSVIVT01009503001        msqea............------------------------------
+Poppulus_trichocarpa_POPTR_0014s02990.1    me...............PSKPSNPLLSLSTVIHQHCLRLGAEFSARV
+Poppulus_trichocarpa_POPTR_0002s12830.1    me...............PSGPSNPLLSLSTFIHHHCLRLGAEFSTRI
+Prunus_persica_ppa009744m                  mespk............PYGRSNPLLSLSTFIHQNCLQLGAELSSRL
+Mimulus_guttatus_mgv1a011324m              messssakpsvg.....PTPTPNPLLSLSTFIH----RLGNQLTTRL
+Carica_papaya_evm.model.supercontig_49.11  melpk............PAFSFNPLSSLPTFINHHSHRLGTELSSRI
+Aquilegia_coerulea_AcoGoldSmith_v1.009406m m................EFPKPSPLSSITTFVHQQLHRFNSEITTRF
+Selaginella_moellendorffii_26102           .................------------------------------
+
+
+                                                   40                                 50  
+                                                    |                                  |  
+Sorghum_bicolor_Sb10g007160.1              HHLSRLASHLNAP..R........P...........A...LAA.AAA
+Zea_mays_GRMZM2G044875                     HHLSRLASHLNVP..R........P...........A...L--.AAA
+Arab._lyrata_913087                        EDTKRFAETLATR..R........F...........S...PFP.PPP
+Arab._thaliana_AT4G33350.1                 EDTKRFAETLATR..R........F...........S...LPT.PPP
+Glycine_max_Glyma04g04070.1                DDTKRALAQAHHN..L........L...........F...PKH.ALA
+Glycine_max_Glyma06g04250.1                DDTKRALAQSHHN..L........V...........F...PKH.ALA
+Medicago_truncatula_Medtr3g147870.1        EDTRKFAGTLIQS..H........T...........R...TKP.A--
+Ricinus_communis_30170.m013883             GDTTWAVSNNLLP..G........L...........NnrkHRP.APL
+Manihot_esculenta_cassava4.1_013683m       GDTTRALTANLPP..G........Ptir........R...LRP.QPL
+Manihot_esculenta_cassava4.1_013700m       GDTTRALASNLPP..G........P...........NnrkLRP.APL
+GSVIVT01009503001_GSVIVT01009503001        -------------..-........-...........-...---.---
+Poppulus_trichocarpa_POPTR_0014s02990.1    SDTTRFLAGNFPPpsR........L...........R...LAP.SPP
+Poppulus_trichocarpa_POPTR_0002s12830.1    SDTTRFLGGNLPPprR........L...........C...LAP.SPP
+Prunus_persica_ppa009744m                  EDTKRLAGTLAGN..LapsarrrmC...........S...APV.APP
+Mimulus_guttatus_mgv1a011324m              EDTKRLAAAAFLP..P........P...........P...PPPlSLP
+Carica_papaya_evm.model.supercontig_49.11  DETKRLAGSLAGN..F........S...........P...FPA.PKQ
+Aquilegia_coerulea_AcoGoldSmith_v1.009406m EESKQFIGNAISN..L........PlnkqrqqphshS...PSS.SLF
+Selaginella_moellendorffii_26102           -------------..-........-...........-...---.---
+
+
+                                                 60               70        80        90  
+                                                  |                |         |         |  
+Sorghum_bicolor_Sb10g007160.1              AARTPGPQGAS.......LSLALAPDEVARALTGTPVFTVCNSSNEF
+Zea_mays_GRMZM2G044875                     AARTPGPQGAS.......LSLSLAPDEVARALTGTPVFTVCNSSNEF
+Arab._lyrata_913087                        FASISQSKSGA.......PPTTLNPSLVAKALAGTSVFTVSNTNNEF
+Arab._thaliana_AT4G33350.1                 FASVSQSKSGT.......PTTTLSPSLVAKALAGTSVFTVSNTNNEF
+Glycine_max_Glyma04g04070.1                ATS--------.......---TLGSLHVAKSLVGTSVYTVSNSNNEF
+Glycine_max_Glyma06g04250.1                HA---------.......ATATLGSQHVAKSLVGTSVFTVSNSNNEF
+Medicago_truncatula_Medtr3g147870.1        -----------.......FAATLTSNHVAKSLAGTSVYTVSSSNNEF
+Ricinus_communis_30170.m013883             FASVSQQPKQA.......SG--LSSEHVAKTLAGTAVYTVSNSNNEF
+Manihot_esculenta_cassava4.1_013683m       FASLSQPKHAA.......AASTLSSDHVAKTLAGTAVYTVSNTNNEF
+Manihot_esculenta_cassava4.1_013700m       FASVSQPKHST.......AAGTLSPEHVAKTLAGTSVFTVSNTNNEF
+GSVIVT01009503001_GSVIVT01009503001        -----RGAKRD.......LGVALSSDHVAKSLAGTAVYTVSNSNNEF
+Poppulus_trichocarpa_POPTR_0014s02990.1    FASVSQPKQTA.......NTANLSSEHVAKALAGTAVYTVSNSDNEF
+Poppulus_trichocarpa_POPTR_0002s12830.1    FASVSQPKQTA.......TTANLSSDHVAKTLAGTAVYTVSNSNNEF
+Prunus_persica_ppa009744m                  FAWLSQS-NHA.......LAATISSDHVAKSLAGTAVYTVSNSNNEF
+Mimulus_guttatus_mgv1a011324m              FASVSQRQGKQsaaaaavQETSLNSEHVARRLAGTSVYTVSNTNNEF
+Carica_papaya_evm.model.supercontig_49.11  AAV--------.......--ATLSSEQVAKALAGTPVYTVSNSNNEF
+Aquilegia_coerulea_AcoGoldSmith_v1.009406m ASITTALPKHA.......FDIALSSDYVAKTLAGTAVYTVSNSNNEF
+Selaginella_moellendorffii_26102           -----------.......FDLAMAPDQVSKRLDGVPVYTVSNHDNEF
+
+
+                                                 100       110       120       130       1
+                                                   |         |         |         |        
+Sorghum_bicolor_Sb10g007160.1              VLVSDPaTGLRSLGLLCFRSEDADALLSHVRTRQPVLGKGAKVVPIT
+Zea_mays_GRMZM2G044875                     VLVSDPaTGLRSLGLLCFRSEDADALLSHVRTRQPVLGKGAKVVPIT
+Arab._lyrata_913087                        VLISDP.TGDKSIGLLCFRQEDAEAFLAQARLRRRELKTNAKVVPIT
+Arab._thaliana_AT4G33350.1                 VLISDP.TGGKSIGLLCFRQEDAEAFLAQARLRRRELKTNAKVVPIT
+Glycine_max_Glyma04g04070.1                VLISDA.DGAKSIGLLCFRQEDAEAFLAQVRSRSRELRSKARVVPIT
+Glycine_max_Glyma06g04250.1                VLISDP.DGAKSIGLLCFRQEDAEAFLAQVRSRSRELRSKARVVPIT
+Medicago_truncatula_Medtr3g147870.1        VLMSDA.EGAKSIGLLCFRQEDAEAFLAQVRSRKNEFRGNAKVVPIT
+Ricinus_communis_30170.m013883             VLVSDP.DGAKSISLLCFRQEDAEAFLAQVRLRRRELRSQARIVPIT
+Manihot_esculenta_cassava4.1_013683m       VLISDP.DGAKSISLLCFRQEDAETFLAQVRLRRRELRSKAKVVPIT
+Manihot_esculenta_cassava4.1_013700m       VLISDP.DGSKSISLLCFRQEDAEAFLAQVRLRRRELRSEAKVVPIT
+GSVIVT01009503001_GSVIVT01009503001        VLISDP.NGIKSIGLLCFRQEDAEAFLAQVQSRTRELRSQARVVPIS
+Poppulus_trichocarpa_POPTR_0014s02990.1    VLISDP.NGAKSIGLLCFRQEDAEAFLAQVRLRRRELRSQAKVVPIT
+Poppulus_trichocarpa_POPTR_0002s12830.1    VLISDP.NGAKSIGLLCFRQEDAEAFLAQVRLRRRELRSQAKVVPIT
+Prunus_persica_ppa009744m                  VLISDP.NEAKSIGLLCFRHEDAEAFLAQVRSR-RELRSAAKVVPIT
+Mimulus_guttatus_mgv1a011324m              VLISDR.DGVKSIGLLCFRREDAEAFLAQVRSRRGELRGGAKVVPIT
+Carica_papaya_evm.model.supercontig_49.11  VLVSDP.NGVKSISLLCFRQEDAEAFLAQVRLRRRELRSNAKVVPVS
+Aquilegia_coerulea_AcoGoldSmith_v1.009406m VLISDP.NNIKSLGILCFRQEDAETLLAQVQLKQPILCRGAKVVPIT
+Selaginella_moellendorffii_26102           VLISDS.NGHKSLGLFCFRHEDAEALLAQIRDREPGLGRGAKIVAVS
+
+
+                                           40       150       160         170       180   
+                                            |         |         |           |         |   
+Sorghum_bicolor_Sb10g007160.1              LDQVYMLKAEGIAFRFLPDPLQIKNALEM..KSGL--TAFDGVPVFQ
+Zea_mays_GRMZM2G044875                     LDQVYMLKAEGIAFRFLPDPLQIKNALEM..KSGL--TAFDGVPVFQ
+Arab._lyrata_913087                        LDQVYLLKVEGISFRFLPDPIQIKNALEL..KSSGNKNGFDGVPVFQ
+Arab._thaliana_AT4G33350.1                 LDQVYLLKVEGISFRFLPDPIQIKNALEL..KSSGNKNGFDGVPVFQ
+Glycine_max_Glyma04g04070.1                LDQVYMLKVEGIAFRFLPDPVQIRNALEL..KPAN-KGGFDGVPVFQ
+Glycine_max_Glyma06g04250.1                LDQVYMLKVEGIAFRFLPDPVQIRNALEL..KPVN-KGGFDGVPVFQ
+Medicago_truncatula_Medtr3g147870.1        LEQVYLLKVEGIAFRFLPDPLQIRNALEL..RAAN-KEGFDGVPVFQ
+Ricinus_communis_30170.m013883             LDQVYMLKVEGIAFRFLPDPVQIKNALEL..KASDTKRGFDGVPIFQ
+Manihot_esculenta_cassava4.1_013683m       LDQVYMLKVEGIAFRFLPDPVQIKNALEL..KAAGVNSGFDGVPVFQ
+Manihot_esculenta_cassava4.1_013700m       LDQVYMLKVEGIAFRFLPDPVQIRNALEL..KSSDTRSSFDGVPVFQ
+GSVIVT01009503001_GSVIVT01009503001        LDQVYMLKVEGIAFRFLPDPVQIKNALEL..KAADIKSGFDGVPVFQ
+Poppulus_trichocarpa_POPTR_0014s02990.1    LDQVYMLKVEGIAFRFLPDPVQIKNALEL..KSADVRSGFDGVPVFQ
+Poppulus_trichocarpa_POPTR_0002s12830.1    LDQVYMLKVEGIAFRFLPDPVQIKNALEL..KAVDIRSGFDGVPVFQ
+Prunus_persica_ppa009744m                  LDQVYMLKVEGIAFRFLPDPVQIRNALEL..KSAD-RSAFDGVPVFQ
+Mimulus_guttatus_mgv1a011324m              LDQVYMLKVEGIAFRFLPDPVQIKNALEL..KASEIKTGFDGVPVFQ
+Carica_papaya_evm.model.supercontig_49.11  LDQVYSLKVEGIAFRFLPDPVQIKNALEL..KSADINSGFDGVPVFQ
+Aquilegia_coerulea_AcoGoldSmith_v1.009406m LDQVYMLKVEGIAFRFLPDPAQIRNALEL..KAADLKNGFDGVPVFQ
+Selaginella_moellendorffii_26102           LDKVYQLKTEGIAFRFLPDPLQVKHALESraKAGDPGKAFDGVPVFQ
+
+
+                                                190       200       210       220         
+                                                  |         |         |         |         
+Sorghum_bicolor_Sb10g007160.1              .SDLLVVKKQKKRYCPIYFQKEDIERELTRASKGSRGSV....LSKQ
+Zea_mays_GRMZM2G044875                     .SDLLVVKKQKKRYCPVYFQKEDIERELTRASKGSRGSA....LSKK
+Arab._lyrata_913087                        .SELLVVRKKNRRYCPVYFSKEDIERELSKYTRASRG--....-DQQ
+Arab._thaliana_AT4G33350.1                 .SELLVVRKKNRRYCPVYFSKEDIERELSKYTRASRG--....-DQQ
+Glycine_max_Glyma04g04070.1                .SELLVVKKKKKRYCPVYFSKEDIEQELSKVSRASRGPG....VSQH
+Glycine_max_Glyma06g04250.1                .SELLVVKKRNKRYCPVYFSKEDIEQELSKVSRASRGPG....VSQH
+Medicago_truncatula_Medtr3g147870.1        .SELLVVKKKNKRYCPVYFSKEDIEQELSKVSRVSKGPG....VSKQ
+Ricinus_communis_30170.m013883             .SELLVVKKKNKRYCPIYFQKEDIEKELSKVSRASRGPG....LSQH
+Manihot_esculenta_cassava4.1_013683m       vSDLLVVKKKNKRYCPIYFQKEDIEKELSKVSRASRGLG....LAQH
+Manihot_esculenta_cassava4.1_013700m       .SDLLVVKKKNKRYCPIYFYKEDIEKELSKVSKASRGPG....LAQH
+GSVIVT01009503001_GSVIVT01009503001        .SDLLVVKKKNRRYCPIYFQKEDIVKELSKVSRSSRGPG....VTQH
+Poppulus_trichocarpa_POPTR_0014s02990.1    .SDQLIVKKKSKRYCPVYFQKEDIEKELSKVSRASRGPG....LSQH
+Poppulus_trichocarpa_POPTR_0002s12830.1    .SDLLVVKKKNKRYCPIYFQKEDIEKELSKVSKASRGPS....LSQH
+Prunus_persica_ppa009744m                  .SDLLVMKKKNKRYCPIYFTKEDIEKELSKVSRVSRGPG....VSQH
+Mimulus_guttatus_mgv1a011324m              .SDLLVVKKRNKRYCPIYFQKEDIERALSTVSRVSRGPG....AAQH
+Carica_papaya_evm.model.supercontig_49.11  .SDLLVVKKKNKRYCPVYFNKEDIEKELLKSSRVSRGLG....VSQH
+Aquilegia_coerulea_AcoGoldSmith_v1.009406m .SDLLVVRKKNKRYCPIYFQKEDLEKELMKVTRISRGSG....LSQN
+Selaginella_moellendorffii_26102           .SDNLVLRSKNRRFCPIFFSKEDLERALLGAFKQQQKINpalkVNTD
+
+
+                                             230       240       250       260       
+                                               |         |         |         |       
+Sorghum_bicolor_Sb10g007160.1              IMVGSLEDVLKKMEINERNSGWDDLIFIPPGKNLNQHINEV.
+Zea_mays_GRMZM2G044875                     IMVGSLEDVLKKMEINERDSGWDDLIFIPPGKSLNQHINEV.
+Arab._lyrata_913087                        IMVGSLEDVLRKMEMSEKNSGWEDVIFIPPGRSYAQHMQEL.
+Arab._thaliana_AT4G33350.1                 IMVGSLEDVLRKMEMSEKNSGWEDVIFIPPGRSYAQHMQDL.
+Glycine_max_Glyma04g04070.1                IAVGSLEDVLRKMEMSERNSGWEDLIFIPPGKSRSQHIQEL.
+Glycine_max_Glyma06g04250.1                IAVGSLEDVLRKMEMSERNSGWEDLIFIPPGKSRSQHIQEL.
+Medicago_truncatula_Medtr3g147870.1        IMVGSFEDVLKKMEMSEKNSGWDDLIFIPPGKSRSQHIQEI.
+Ricinus_communis_30170.m013883             IMVGSLEDVLRKMEMSEKNSGWEDLIFIPPGKSHSQHIQEV.
+Manihot_esculenta_cassava4.1_013683m       IMVGSLEDVLRKMEMSENNSGWEDLIFIPPGKSCSQHIQEV.
+Manihot_esculenta_cassava4.1_013700m       IRVGSLEDVLRKMEMSEKNSGWEDLIFIPPGKSYSRHIQE-a
+GSVIVT01009503001_GSVIVT01009503001        IMVGSLEDVLRKMETSEKNSGWEDLIFIPPGKSHSQHIQEV.
+Poppulus_trichocarpa_POPTR_0014s02990.1    IMVGSLEDVLKKMEISEKNSGWEDLIFIPPGKSHSQHIQEI.
+Poppulus_trichocarpa_POPTR_0002s12830.1    IMVGSLEDVLKKMEISEKKSGWEDLIFIPPGKSHSQHIHEI.
+Prunus_persica_ppa009744m                  IMVGSLEDVLRKMELSEKNSGWEDLIFIPPGKSYSQHIQDV.
+Mimulus_guttatus_mgv1a011324m              IMVGSLEDVLKKMEINEKNSGWEDLIFIPPGKSHSQHIQDV.
+Carica_papaya_evm.model.supercontig_49.11  IMS---RRCLRKMEMSERNSGWGDLIFIPPGKSHSQHIQEV.
+Aquilegia_coerulea_AcoGoldSmith_v1.009406m IVVGSLEDVLKKMEMSDKNSGWEDLIFIPPGKSYSQHVQEV.
+Selaginella_moellendorffii_26102           IQVGSFEDVLQRLESSDDGSGWGDVVFIPPGMDALSHFSEK.
+
+
