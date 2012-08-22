@@ -1,0 +1,85 @@
+#NEXUS
+
+[ID: None Available]
+begin taxa;
+	dimensions ntax=33;
+	taxlabels
+		Sorghum_bicolor_Sb02g009350.1
+		Zea_mays_GRMZM2G130651
+		Oryza_sativa_jap._LOC_Os07g19030.1
+		Brachypodium_distachyon_Bradi4g27410.1
+		Arab._lyrata_479887_479887
+		Arab._thaliana_AT3G23710.1
+		Poppulus_trichocarpa_POPTR_0002s23710.1
+		Prunus_persica_ppa023049m
+		Aquilegia_coerulea_AcoGoldSmith_v1.008674m
+		Cucumis_sativus_Cucsa.365650.1
+		Mimulus_guttatus_mgv1a011459m
+		Glycine_max_Glyma05g28300.1
+		Carica_papaya_evm.model.supercontig_157.20
+		Sorghum_bicolor_Sb10g007160.1
+		Zea_mays_GRMZM2G044875
+		Arab._lyrata_913087
+		Arab._thaliana_AT4G33350.1
+		Glycine_max_Glyma04g04070.1
+		Glycine_max_Glyma06g04250.1
+		Medicago_truncatula_Medtr3g147870.1
+		Ricinus_communis_30170.m013883
+		Manihot_esculenta_cassava4.1_013683m
+		Manihot_esculenta_cassava4.1_013700m
+		GSVIVT01009503001_GSVIVT01009503001
+		Poppulus_trichocarpa_POPTR_0014s02990.1
+		Poppulus_trichocarpa_POPTR_0002s12830.1
+		Prunus_persica_ppa009744m
+		Mimulus_guttatus_mgv1a011324m
+		Carica_papaya_evm.model.supercontig_49.11
+		Aquilegia_coerulea_AcoGoldSmith_v1.009406m
+		Selaginella_moellendorffii_26102
+		121068
+		Chlamydomonas_reinhardtii_Cre14.g625750.t1.1
+		;end;
+begin trees;
+	translate
+		1	Sorghum_bicolor_Sb02g009350.1,
+		2	Zea_mays_GRMZM2G130651,
+		3	Oryza_sativa_jap._LOC_Os07g19030.1,
+		4	Brachypodium_distachyon_Bradi4g27410.1,
+		5	Arab._lyrata_479887_479887,
+		6	Arab._thaliana_AT3G23710.1,
+		7	Poppulus_trichocarpa_POPTR_0002s23710.1,
+		8	Prunus_persica_ppa023049m,
+		9	Aquilegia_coerulea_AcoGoldSmith_v1.008674m,
+		10	Cucumis_sativus_Cucsa.365650.1,
+		11	Mimulus_guttatus_mgv1a011459m,
+		12	Glycine_max_Glyma05g28300.1,
+		13	Carica_papaya_evm.model.supercontig_157.20,
+		14	Sorghum_bicolor_Sb10g007160.1,
+		15	Zea_mays_GRMZM2G044875,
+		16	Arab._lyrata_913087,
+		17	Arab._thaliana_AT4G33350.1,
+		18	Glycine_max_Glyma04g04070.1,
+		19	Glycine_max_Glyma06g04250.1,
+		20	Medicago_truncatula_Medtr3g147870.1,
+		21	Ricinus_communis_30170.m013883,
+		22	Manihot_esculenta_cassava4.1_013683m,
+		23	Manihot_esculenta_cassava4.1_013700m,
+		24	GSVIVT01009503001_GSVIVT01009503001,
+		25	Poppulus_trichocarpa_POPTR_0014s02990.1,
+		26	Poppulus_trichocarpa_POPTR_0002s12830.1,
+		27	Prunus_persica_ppa009744m,
+		28	Mimulus_guttatus_mgv1a011324m,
+		29	Carica_papaya_evm.model.supercontig_49.11,
+		30	Aquilegia_coerulea_AcoGoldSmith_v1.009406m,
+		31	Selaginella_moellendorffii_26102,
+		32	121068,
+		33	Chlamydomonas_reinhardtii_Cre14.g625750.t1.1
+		;
+   [Note: This tree contains information on the topology, 
+          branch lengths (if present), and the probability
+          of the partition indicated by the branch.]
+   tree con_50_majrule = (1:0.014663,2:0.061206,((3:0.123008,(((((5:0.014462,6:0.031716)1.00:0.292054,(7:0.231251,((8:0.116790,(10:0.208787,12:0.462608)1.00:0.139192)0.99:0.084773,11:0.479598)0.81:0.056552)0.52:0.033474)0.96:0.070972,13:0.153583)1.00:0.234696,9:0.339575)0.96:0.140681,(((14:0.015920,15:0.040580)1.00:0.382202,(((((16:0.026957,17:0.024898)1.00:0.264118,((18:0.025086,19:0.021022)1.00:0.129008,20:0.206046)0.62:0.035928)1.00:0.064597,28:0.182397)0.87:0.027087,((21:0.078944,22:0.080031,23:0.107920)1.00:0.055252,(25:0.063151,26:0.042093)1.00:0.058069)1.00:0.046073,24:0.128922,27:0.123137,29:0.205365)1.00:0.139854,30:0.222525)0.99:0.177334)1.00:0.482853,(31:0.212990,(32:0.064486,33:0.089304)1.00:1.562453)0.93:0.186633)1.00:0.610054)1.00:0.414118)0.56:0.053513,4:0.132550)1.00:0.100523);
+
+   [Note: This tree contains information only on the topology
+          and branch lengths (mean of the posterior probability density).]
+   tree con_50_majrule = (1:0.014663,2:0.061206,((3:0.123008,(((((5:0.014462,6:0.031716):0.292054,(7:0.231251,((8:0.116790,(10:0.208787,12:0.462608):0.139192):0.084773,11:0.479598):0.056552):0.033474):0.070972,13:0.153583):0.234696,9:0.339575):0.140681,(((14:0.015920,15:0.040580):0.382202,(((((16:0.026957,17:0.024898):0.264118,((18:0.025086,19:0.021022):0.129008,20:0.206046):0.035928):0.064597,28:0.182397):0.027087,((21:0.078944,22:0.080031,23:0.107920):0.055252,(25:0.063151,26:0.042093):0.058069):0.046073,24:0.128922,27:0.123137,29:0.205365):0.139854,30:0.222525):0.177334):0.482853,(31:0.212990,(32:0.064486,33:0.089304):1.562453):0.186633):0.610054):0.414118):0.053513,4:0.132550):0.100523);
+end;

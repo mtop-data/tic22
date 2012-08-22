@@ -1,0 +1,129 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=50;
+	taxlabels
+	'Sorghum_bicolor_Sb02g009350.1|Sb02g009350.1|Sb02g009350|similar'
+	'Zea_mays_GRMZM2G130651_P01|GRMZM2G130651_T01|GRMZM2G130651'
+	'Brachypodium_distachyon_Bradi4g27410.1|Bradi4g27410.1|Bradi4g27410'
+	'Oryza_sativa_jap._LOC_Os07g19030.1|LOC_Os07g19030.1|LOC_Os07g19030|synonym_13107.m01989|tic22-like'
+	'Arab._lyrata_479887|479887|479887|synonym_fgenesh2_kg.3__2588__AT3G23710.1'
+	'Arab._thaliana_AT3G23710.1|AT3G23710.1|AT3G23710|chloroplast'
+	'Carica_papaya_evm.model.supercontig_157.14|evm.model.supercontig_157.14|evm.TU.supercontig_157.14'
+	'Carica_papaya_evm.model.supercontig_157.20|evm.model.supercontig_157.20|evm.TU.supercontig_157.20'
+	'Manihot_esculenta_cassava4.1_016903m|cassava4.1_016903m|cassava4.1_016903m.g'
+	'Ricinus_communis_30065.m001170|30065.m001170|30065.t000035|hypothetical'
+	'Manihot_esculenta_cassava4.1_026992m|cassava4.1_026992m|cassava4.1_026992m.g'
+	'Poppulus_trichocarpa_POPTR_0002s23710.1|POPTR_0002s23710.1|POPTR_0002s23710|synonym_estExt_fgenesh4_pg.C_LG_II2341|similar'
+	'Prunus_persica_ppa023049m|ppa023049m|ppa023049m.g'
+	'Cucumis_sativus_Cucsa.365650.1|Cucsa.365650.1|Cucsa.365650'
+	'_GSVIVT01031575001|GSVIVT01031575001|GSVIVG01031575001'
+	'Aquilegia_coerulea_AcoGoldSmith_v1.008674m|AcoGoldSmith_v1.008674m|AcoGoldSmith_v1.008674m.g'
+	'Mimulus_guttatus_mgv1a011459m|mgv1a011459m|mgv1a011459m.g'
+	'Glycine_max_Glyma05g28300.1|Glyma05g28300.1|Glyma05g28300'
+	'Glycine_max_Glyma08g11290.1|Glyma08g11290.1|Glyma08g11290'
+	'_121068|121068|121068|synonym_estExt_fgenesh5_synt.C_290017'
+	'Chlamydomonas_reinhardtii_Cre14.g625750.t1.1|Cre14.g625750.t1.1|Cre14.g625750'
+	'Mimulus_guttatus_mgv1a024230m|mgv1a024230m|mgv1a024230m.g'
+	'Mimulus_guttatus_mgv1a021174m|mgv1a021174m|mgv1a021174m.g'
+	'Mimulus_guttatus_mgv11b016861m|mgv11b016861m|mgv11b016861m.g'
+	'Mimulus_guttatus_mgv1a013168m|mgv1a013168m|mgv1a013168m.g'
+	'Selaginella_moellendorffii_424522|424522|424522|synonym_fgenesh2_pg.C_scaffold_68000003'
+	'Selaginella_moellendorffii_26102|26102|26102|synonym_gw1.0.786.1'
+	'Physcomitrella_patens_Pp1s282_30V6.1|Pp1s282_30V6.1|Pp1s282_30V6'
+	'Physcomitrella_patens_Pp1s81_171V6.1|Pp1s81_171V6.1|Pp1s81_171V6'
+	'Sorghum_bicolor_Sb10g007160.1|Sb10g007160.1|Sb10g007160|similar'
+	'Zea_mays_GRMZM2G044875_P01|GRMZM2G044875_T01|GRMZM2G044875'
+	'Oryza_sativa_jap._LOC_Os06g11020.1|LOC_Os06g11020.1|LOC_Os06g11020|synonym_13106.m01193|tic22-like'
+	'Cucumis_sativus_Cucsa.123730.1|Cucsa.123730.1|Cucsa.123730'
+	'Glycine_max_Glyma18g19980.1|Glyma18g19980.1|Glyma18g19980'
+	'Arab._lyrata_913087|944600|944600|synonym_scaffold_700829.1'
+	'Arab._thaliana_AT4G33350.1|AT4G33350.1|AT4G33350|chloroplast'
+	'Glycine_max_Glyma04g04070.1|Glyma04g04070.1|Glyma04g04070'
+	'Glycine_max_Glyma06g04250.1|Glyma06g04250.1|Glyma06g04250'
+	'Medicago_truncatula_Medtr3g147870.1|Medtr3g147870.1|Medtr3g147870|Tic22-like'
+	'Mimulus_guttatus_mgv1a011324m|mgv1a011324m|mgv1a011324m.g'
+	'Ricinus_communis_30170.m013883|30170.m013883|30170.t000295|protein'
+	'Manihot_esculenta_cassava4.1_013683m|cassava4.1_013683m|cassava4.1_013683m.g'
+	'Manihot_esculenta_cassava4.1_013700m|cassava4.1_013700m|cassava4.1_013700m.g'
+	'Poppulus_trichocarpa_POPTR_0014s02990.1|POPTR_0014s02990.1|POPTR_0014s02990|synonym_estExt_Genewise1_v1.C_400714|similar'
+	'Poppulus_trichocarpa_POPTR_0002s12830.1|POPTR_0002s12830.1|POPTR_0002s12830|synonym_gw1.II.3728.1|similar'
+	'_GSVIVT01009503001|GSVIVT01009503001|GSVIVG01009503001'
+	'Prunus_persica_ppa009744m|ppa009744m|ppa009744m.g'
+	'Carica_papaya_evm.model.supercontig_49.11|evm.model.supercontig_49.11|evm.TU.supercontig_49.11'
+	'Aquilegia_coerulea_AcoGoldSmith_v1.009406m|AcoGoldSmith_v1.009406m|AcoGoldSmith_v1.009406m.g'
+	'Cucumis_sativus_Cucsa.352120.1|Cucsa.352120.1|Cucsa.352120'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((((((((('Sorghum_bicolor_Sb02g009350.1|Sb02g009350.1|Sb02g009350|similar'[&!color=#-256]:0.03348,'Zea_mays_GRMZM2G130651_P01|GRMZM2G130651_T01|GRMZM2G130651'[&!color=#-256]:0.0367)[&!color=#-256]:0.07116,'Brachypodium_distachyon_Bradi4g27410.1|Bradi4g27410.1|Bradi4g27410'[&!color=#-256]:0.11296)[&!color=#-256]:0.00881,'Oryza_sativa_jap._LOC_Os07g19030.1|LOC_Os07g19030.1|LOC_Os07g19030|synonym_13107.m01989|tic22-like'[&!color=#-256]:0.11145)[&!color=#-256]:0.14607,((('Arab._lyrata_479887|479887|479887|synonym_fgenesh2_kg.3__2588__AT3G23710.1'[&!color=#-3407872]:0.0232,'Arab._thaliana_AT3G23710.1|AT3G23710.1|AT3G23710|chloroplast'[&!color=#-3407872]:0.02792)[&!color=#-3407872]:0.16539,(('Carica_papaya_evm.model.supercontig_157.14|evm.model.supercontig_157.14|evm.TU.supercontig_157.14'[&!color=#-16737793]:0.08577,'Carica_papaya_evm.model.supercontig_157.20|evm.model.supercontig_157.20|evm.TU.supercontig_157.20'[&!color=#-16737793]:-0.04372)[&!color=#-16737793]:0.18697,'Manihot_esculenta_cassava4.1_016903m|cassava4.1_016903m|cassava4.1_016903m.g'[&!color=#-16737793]:0.28679)[&!color=#-16737793]:0.02485):0.05577,((((((('Ricinus_communis_30065.m001170|30065.m001170|30065.t000035|hypothetical'[&!color=#-13382401]:0.05572,'Manihot_esculenta_cassava4.1_026992m|cassava4.1_026992m|cassava4.1_026992m.g'[&!color=#-13382401]:0.06928)[&!color=#-13382401]:0.03266,'Poppulus_trichocarpa_POPTR_0002s23710.1|POPTR_0002s23710.1|POPTR_0002s23710|synonym_estExt_fgenesh4_pg.C_LG_II2341|similar'[&!color=#-13382401]:0.11241)[&!color=#-13382401]:0.03979,'Prunus_persica_ppa023049m|ppa023049m|ppa023049m.g'[&!color=#-13382401]:0.15957)[&!color=#-13382401]:0.0115,'Cucumis_sativus_Cucsa.365650.1|Cucsa.365650.1|Cucsa.365650'[&!color=#-13382401]:0.17445)[&!color=#-13382401]:0.02181,('_GSVIVT01031575001|GSVIVT01031575001|GSVIVG01031575001'[&!color=#-13382401]:0.12532,'Aquilegia_coerulea_AcoGoldSmith_v1.008674m|AcoGoldSmith_v1.008674m|AcoGoldSmith_v1.008674m.g'[&!color=#-13382401]:0.14314)[&!color=#-13382401]:0.055)[&!color=#-13382401]:0.00697,'Mimulus_guttatus_mgv1a011459m|mgv1a011459m|mgv1a011459m.g'[&!color=#-16711885]:0.22138):0.01179,('Glycine_max_Glyma05g28300.1|Glyma05g28300.1|Glyma05g28300'[&!color=#-13382401]:0.07205,'Glycine_max_Glyma08g11290.1|Glyma08g11290.1|Glyma08g11290'[&!color=#-13382401]:0.09881)[&!color=#-13382401]:0.11952):0.03063):0.02095):0.05942,(('_121068|121068|121068|synonym_estExt_fgenesh5_synt.C_290017':0.06282,'Chlamydomonas_reinhardtii_Cre14.g625750.t1.1|Cre14.g625750.t1.1|Cre14.g625750':0.06446):0.30498,(((('Mimulus_guttatus_mgv1a024230m|mgv1a024230m|mgv1a024230m.g'[&!color=#-16711885]:0.06544,'Mimulus_guttatus_mgv1a021174m|mgv1a021174m|mgv1a021174m.g'[&!color=#-16711885]:0.05821)[&!color=#-16711885]:0.24734,'Mimulus_guttatus_mgv11b016861m|mgv11b016861m|mgv11b016861m.g'[&!color=#-16711885]:0.31086)[&!color=#-16711885]:0.02363,'Mimulus_guttatus_mgv1a013168m|mgv1a013168m|mgv1a013168m.g'[&!color=#-16711885]:0.2911)[&!color=#-16711885]:0.09188,'Selaginella_moellendorffii_424522|424522|424522|synonym_fgenesh2_pg.C_scaffold_68000003'[&!color=#-16776961]:0.47562):0.01967):0.03189):0.03275,(('Selaginella_moellendorffii_26102|26102|26102|synonym_gw1.0.786.1'[&!color=#-16776961]:0.07377,'Physcomitrella_patens_Pp1s282_30V6.1|Pp1s282_30V6.1|Pp1s282_30V6':0.1395):0.10438,'Physcomitrella_patens_Pp1s81_171V6.1|Pp1s81_171V6.1|Pp1s81_171V6':0.32839):0.02142):0.06779,(('Sorghum_bicolor_Sb10g007160.1|Sb10g007160.1|Sb10g007160|similar'[&!color=#-256]:0.02482,'Zea_mays_GRMZM2G044875_P01|GRMZM2G044875_T01|GRMZM2G044875'[&!color=#-256]:0.02518)[&!color=#-256]:0.03752,'Oryza_sativa_jap._LOC_Os06g11020.1|LOC_Os06g11020.1|LOC_Os06g11020|synonym_13106.m01193|tic22-like'[&!color=#-256]:0.13144)[&!color=#-256]:0.16074):0.03815,('Cucumis_sativus_Cucsa.123730.1|Cucsa.123730.1|Cucsa.123730'[&!color=#-13382401]:0.19253,'Glycine_max_Glyma18g19980.1|Glyma18g19980.1|Glyma18g19980'[&!color=#-13382401]:0.34984)[&!color=#-13382401]:0.02696):0.0311,('Arab._lyrata_913087|944600|944600|synonym_scaffold_700829.1'[&!color=#-3407872]:0.01992,'Arab._thaliana_AT4G33350.1|AT4G33350.1|AT4G33350|chloroplast'[&!color=#-3407872]:0.02112)[&!color=#-3407872]:0.13843):0.01778,(('Glycine_max_Glyma04g04070.1|Glyma04g04070.1|Glyma04g04070'[&!color=#-10066177]:0.01669,'Glycine_max_Glyma06g04250.1|Glyma06g04250.1|Glyma06g04250'[&!color=#-10066177]:0.01819)[&!color=#-10066177]:0.07973,'Medicago_truncatula_Medtr3g147870.1|Medtr3g147870.1|Medtr3g147870|Tic22-like':0.13696):0.01253):0.01441,'Mimulus_guttatus_mgv1a011324m|mgv1a011324m|mgv1a011324m.g'[&!color=#-16711936]:0.13433)[&!color=#-13382401]:0.01316,((('Ricinus_communis_30170.m013883|30170.m013883|30170.t000295|protein'[&!color=#-13382401]:0.07349,('Manihot_esculenta_cassava4.1_013683m|cassava4.1_013683m|cassava4.1_013683m.g'[&!color=#-13382401]:0.06462,'Manihot_esculenta_cassava4.1_013700m|cassava4.1_013700m|cassava4.1_013700m.g'[&!color=#-13382401]:0.08867)[&!color=#-13382401]:0.00244)[&!color=#-13382401]:0.02132,('Poppulus_trichocarpa_POPTR_0014s02990.1|POPTR_0014s02990.1|POPTR_0014s02990|synonym_estExt_Genewise1_v1.C_400714|similar'[&!color=#-13382401]:0.04898,'Poppulus_trichocarpa_POPTR_0002s12830.1|POPTR_0002s12830.1|POPTR_0002s12830|synonym_gw1.II.3728.1|similar'[&!color=#-13382401]:0.04259)[&!color=#-13382401]:0.04008)[&!color=#-13382401]:0.01153,('_GSVIVT01009503001|GSVIVT01009503001|GSVIVG01009503001'[&!color=#-13382401]:0.07079,('Prunus_persica_ppa009744m|ppa009744m|ppa009744m.g'[&!color=#-13382401]:0.09726,'Carica_papaya_evm.model.supercontig_49.11|evm.model.supercontig_49.11|evm.TU.supercontig_49.11'[&!color=#-13382401]:0.14795)[&!color=#-13382401]:0.00937)[&!color=#-13382401]:0.00531)[&!color=#-13382401]:0.0015,('Aquilegia_coerulea_AcoGoldSmith_v1.009406m|AcoGoldSmith_v1.009406m|AcoGoldSmith_v1.009406m.g'[&!color=#-13382401]:0.17593,'Cucumis_sativus_Cucsa.352120.1|Cucsa.352120.1|Cucsa.352120'[&!color=#-13382401]:0.1484)[&!color=#-13382401]:0.02902);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="User Selection";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User Selection";
+	set appearance.branchLineWidth=3.0;
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User Selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set nodeBars.barWidth=4.0;
+	set nodeLabels.colorAttribute="User Selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleAxis.significantDigits=4;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set scaleBar.significantDigits=4;
+	set tipLabels.colorAttribute="User Selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

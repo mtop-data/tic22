@@ -1,0 +1,1119 @@
+#NEXUS
+[saved by seaview on Sun Aug 19 12:11:16 2012]
+BEGIN DATA;
+  DIMENSIONS NTAX=101 NCHAR=470;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] Acaryochloris_marina_MBIC11017@
+AIPEAEAVK-------------------------RLETVPTFAVTDEKGSPVLAAVPNPK
+D-KTKK---------IQVATFFMSQTDAQNLVN-NLKAN--------------K------
+PDIG----------KSAR--------VTLI-SLRDAYEI------TKKNKDKQ--DQLVF
+QFIPNKE----------------QVDL--------AKAILKQE-----GQDV--KQFQGV
+PMFFAI------------------GGKEK------GLLTI---EQGKE----------KI
+----------IPFYFRK-----QDLQGMIDQLKKQNNPLSGT------------------
+----------------------------------------TKIQ----------------
+---------VTSLDRLVGSLFKSE-----DATAKQIVLIPARDALEYAVQ
+[2] Arthrospira_platensis_NIES_39@
+ALTLEEIQA-------------------------KLRPVPVFTITDPTGSPLVATVPAGE
+N-GSGT---------AAVAGIFISRQDALRFVE-NLRNN--------------N------
+PELA----------NSVE--------VTAV-SLGEVYQM------SQQSRNRA--DDIQF
+AYVPVQQ----------------EVES--------ARAVMQQS-----GRSP--NEFNGV
+PLFMAR------------------GGPDN------GYLTI---QRGND----------QV
+----------IPMFFSK-----QDLEGMLSQFREEQPDLISS------------------
+----------------------------------------VTVQ----------------
+---------VVPLEALLEAFRTDD-----NQFLDRIILVPPRETLEFLRN
+[3] Arthrospira_platensis_Paraca@
+ALTLEEIQA-------------------------KLRPVPVFTITDPTGSPLVATVPAGE
+N-GSGT---------AAVAGIFISRQDALRFVE-NLRNN--------------N------
+PELA----------NSVE--------VTAV-SLGEVYQM------SQQSRNRA--DDIQF
+AYVPVQQ----------------EVES--------ARAVMQQS-----GRSP--NEFNGV
+PLFMAR------------------GGPDN------GYLTI---QRGND----------QV
+----------IPMFFSK-----QDLEGMLSQFREDQPDLISS------------------
+----------------------------------------VTVQ----------------
+---------VVPLEALLEAFRTDD-----NQFLDRIILVPPRETLEFLRN
+[4] Arthrospira_sp_PCC_8005@
+ALTLEEIQE-------------------------KLRPVPVFTITDPTGSPLVATVPAGE
+N-GSGT---------AAVAGIFISRQDALRFVE-NLRNN--------------N------
+PELA----------NSVE--------VTAV-SLGEVYKM------SQQSRNRP--DDIQF
+AYVPVQR----------------EVES--------ARAVMQQS-----GRSP--NEFNGV
+PLFMAR------------------GGPDN------GYLTI---QRGND----------QV
+----------IPMFFSK-----QDLEGMLSQFQEQQPDLISS------------------
+----------------------------------------VTVQ----------------
+---------VVPLEALLEAFRTDD-----NQFLDRIILVPPRETLEFLRN
+[5] Lyngbya_sp_CCY_8106@
+ALTPNEVLE-------------------------KLGAVPVFTITDSEGSPLVGTAQSQG
+----QS---------ASVVEVYISRQDAQAFIN-ELKTQ--------------N------
+PELA----------SSVQ--------VTAV-PLGKIYEI------GQQNQSDP--ERLMF
+AFVPTQQ----------------QLNS--------AKAVLEAN-----GQDV--NQFRGV
+PLFLAR------------------AGADD------RVITV---QQGDK----------QA
+----------IPFFFTK-----EDLQGMLEQFKTQQPDLISS------------------
+----------------------------------------VKIE----------------
+---------VVPLEVLLEAFRTDS-----DQFLDLVILIPPRETVEFIQQ
+[6] Oscillatoria_sp_PCC_6506@
+ALPDPQVLE-------------------------KLRPVPVFTITDAQGAPLIASVPKEG
+Q-SGSN---------TSVAGVFISQRDAQAFVD-RLKTR--------------N------
+PQLA----------ASVK--------VVPV-SLGEIYQL------SQANKGKA--EEVQF
+AYVPTTT----------------QVES--------AKTLLRQG-----GQQV--NEFSGV
+PLFLAR------------------GGPEN------GYLTI---QRGQE----------QV
+----------IPLFFNK-----EELQGMLERFKQQQPNIASS------------------
+----------------------------------------LKIE----------------
+---------VVNLEAVLEAMRTDN-----DPFLSQIILVPPRESLEYVRT
+[7] Trichodesmium_erythraeum_IMS101@
+ALPEKEVLQ-------------------------KLTPVPVFTITDQNGSPLVRSIRREG
+NE--VN---------SSVAGVFISKSDADAFVN-KLKGE--------------N------
+PDLA----------ATVK--------VVPV-SLGEVYEK------SQSIQENG--QRLEF
+AYVPIRR----------------QVES--------AKALLEKN-----GQDF--NNFSGV
+PLFMAK------------------GGPDD------GYLTI---QRGEK----------QV
+----------IPMFFNK-----EDLQGMLDRAETQQPEVFSS------------------
+----------------------------------------VEIE----------------
+---------VVNLEGVINALKNDD-----DPFLEKIIFIPPRESLEFVQQ
+[8] Microcoleus_chthonoplastes_PCC_7420@
+ALTEQQVME-------------------------KLQTVPVFTVTDGEGSPLVASIPSQN
+N---QN---------EAVAGVFISQRDAEAFVE-RLKRE--------------K------
+PELG----------NQVR--------VVPV-SLAEVYQL------DQQSQNQP--NGLDF
+AYIPVQQ----------------QVQS--------AQQLLGQ------GQEF-----RGV
+PLFVAK------------------GGQQG------GYLTI---QQEGQ----------QV
+----------IPFFFDK-----EQLQNLVNRFKEQQPNLASS------------------
+----------------------------------------VQIQ----------------
+---------VVPLEGIINTLQTQD-----NPQLEQILLIPSQESLQFLRQ
+[9] Cyanothece_PCC_7424@
+ALPEQQIIE-------------------------RLQAVPVFTLADDKGVPLVAVVE---
+----ND---------QKVTGVFISQEDAKAFLE-QLKKD--------------N------
+PQVA----------EKVK--------VQPV-SLGQVYKL-------QNSQKEP--DGLIV
+SYVPDET----------------EVES--------AKKLLSES-----GKEY--Q--GGV
+PLFVAK------------------AGEDQ------GYLTI---NQNNQ----------QV
+----------IPMFFEK-----ASVTAMVEQFKKQKPDLAST------------------
+----------------------------------------VKIE----------------
+---------VIPLESVIETLESSD-----DQMLNKIVLVPSQETMNFIRA
+[10] Cyanothece_PCC_7822@
+ALPEQQILE-------------------------KLQPIPVFTVADDQGVPLVEVVE---
+----ND---------KKVTGVFISRQDAQAYLA-QVQKQ--------------N------
+PEIG----------KKVK--------VQPV-SLGQVYKL-------QQSQKEP--NALIV
+DYVPTQT----------------EVES--------AKKLLTDN-----GQEY--K--GGV
+PLFVAK------------------AGKEE------GYLMI---NQNNQ----------PV
+----------IPMFFEK-----SAATALAEEYKKQKPELAST------------------
+----------------------------------------VKIE----------------
+---------VVPLEGVIGALKESN-----DQMLTKIVLVPSKDTLDFIRA
+[11] Microcystis_aeruginosa_NIES_843@
+ALPEEQIVR-------------------------TLQSVPVFAIADDQGVPLIAVGE---
+----KE---------QKFTGVFISRQDAQNFFE-RLKKE--------------N------
+PEVA----------SKVK--------VQPV-SLAQVYKM-------QTSQTDQ--NRLII
+DFVPKES----------------EVES--------AKKLLSER-----GQQY--Q--GGV
+PLFVPK------------------AGKES------NFLVI---SRNNQ----------DL
+----------IPFFFEK-----AAALQMVEQYKKANPAEAAT------------------
+----------------------------------------VKID----------------
+---------VIPLENVIATLQQSN-----DEALTKILLYPSQETIDFIRA
+[12] Cyanobacterium_sp_UCYN_A@
+ALPEADIVK-------------------------LLQSVPVFTITTEEGGPLVATVE---
+----NN---------QKVTQVFMSLKDADGFLD-KLRKH--------------Q------
+PDVG----------NKVK--------VQPV-SLGEIYRF------AIANNSDTQKEPLQF
+VYVPMKS----------------AIDS--------AKKLLDTK-----GQEY--K--GGV
+PLFLLR------------------GGPEN------SMLTI---QQNDQ----------EV
+----------IPLFFEE-----APIQAITEKMKKDQPNIAQT------------------
+----------------------------------------IKVE----------------
+---------VVPLENVIGLLQTKD-----DEALKQIQLVPSEETIQFIQN
+[13] Cyanothece_sp_BH68_ATCC_51142@
+ALPEADVIK-------------------------VLQGVPVFTITTEQGGPLIATLE---
+----DN---------QKVTQVFMSQQDANQFLA-KLKEN--------------Q------
+PDIG----------NRVK--------VQPV-SLGEVYRF------AIANNTET--ESLKF
+AYIPMQS----------------AVDS--------AKKVLNDN-----GQQY--Q--GGV
+PLFTLR------------------GGPDN------SILTI---QQDEQ----------EV
+----------IPFFFEK-----APIQAIAEQMKKDQPDIAQT------------------
+----------------------------------------MQIE----------------
+---------VVALENVIGLLQTKD-----DAMLKQIQLIPSQETMKFIQE
+[14] Cyanothece_sp_CCY_0110@
+ALPEAEVIK-------------------------VLQGVPVFTITTEEGGPLIATLE---
+----DD---------QKVTQVFMSQEDANQFLA-KLKAN--------------Q------
+PEIG----------NKVK--------VQPV-SLGAVYSF------ALANNTET--ESLKF
+AYIPMAS----------------AVDS--------AKKVLSDN-----GQQY--Q--GGV
+PLFTLR------------------GGPDN------SILTI---QQDDK----------EV
+----------IPFFFEK-----APIQAIAEQMKKDQPDIAET------------------
+----------------------------------------MQIE----------------
+---------VIALENVIGLLQNKD-----DAMLKQIQLVPSQETMEFIQE
+[15] Synechocystis_sp_PCC_6803@
+ALPTEEVVK-------------------------ILQGVPVFTIVDAQGAPLVAVGN---
+----DN---------EKVTGVFISQQEANGFLQ-ELKKQ--------------K------
+PDVG----------SQVS--------VQPV-SLGEVVKI------AQANANQT--DPLGF
+AYVPIPA----------------QVQA--------AQQMPNSE-----YQ-------GGV
+PLFVAR------------------GGEDQ------GYLTI---QQENE----------QI
+----------IPFFLEA-----SQIQQMVERFKQEQPAMADS------------------
+----------------------------------------IVID----------------
+---------VIAMENVISTLQTSD-----DAMLKQIRIVPTQEAIQFIRS
+[16] Cyanothece_PCC_8801@
+ALSKEEVIK-------------------------VLNAIPAFILIDDKNFPLAGKID---
+----DK---------TIFTNVFMSQQGAQQFLA-SLQKE--------------K------
+PDLA----------SKYK--------VELI-SLGGIYQL------AQQNSNQS--QRYLL
+QYIPNQA----------------EVEA--------AKPILSAS-----GKQY--E--GGV
+PLYLAR------------------GGQQQ------SYLTM---EQNGE----------TI
+----------TPVFFEK-----KTIQAMVDNVTKQEPNLAPT------------------
+----------------------------------------VKIE----------------
+---------VVLLDNLITTLEEKN-----DTFIKSIRLWPSEEMMGIIRS
+[17] Cyanothece_PCC_8802@
+ALSKEEVVK-------------------------VLNAIPAFILIDDKNFPLAGKID---
+----DK---------TIFTNVFMSQQGAQQFLA-SLQKE--------------K------
+PDLA----------SKYK--------VELI-SLGGIYQL------AQQNSNQS--QRYLL
+QYIPNQA----------------EVEA--------AKPILSAS-----GKQY--E--GGV
+PLYLAR------------------GGQQQ------SYLTM---EQNGE----------TI
+----------TPVFFEK-----KTIQAMVDNVTKQEPNLAPT------------------
+----------------------------------------VKIE----------------
+---------VVLLDNLITTLEEKN-----DTFIKSIRLWPSEEMMGIIRS
+[18] Cyanothece_sp_BH68_ATCC_51142@
+ALTQAEIVE-------------------------FLSGVPVYSLLDQQGLPIGRQLE---
+----DG---------SVVTPVFMSRKEAQAFLQ-ELKEI--------------D------
+SETA----------DSYR--------IQIL-PLSRIYEI------ARETSTNS--SRLFL
+DYIPSAT----------------ELQA--------ARELVKEK-----GQKY--P--GDV
+PLYLAK------------------IESDQ------SYLTI---KQEDQ----------EI
+----------VPVFFEK-----ATIDQWIETVSQTRPELGQE------------------
+----------------------------------------ININ----------------
+---------VISLSSLIANLEKND-----NDLLRSLRFWPSKEMMRIIRS
+[19] Cyanothece_sp_CCY_0110@
+ALPQREIVE-------------------------FLSGVPVYSLLDQQGLPIGRQLD---
+----DG---------SVITPVFMSRNEAQAFLR-ELKEI--------------N------
+SQTA----------DSYR--------IQIL-PLSRIYEI------ARDTSTNS--SRLFL
+DYIPSAQ----------------ELRT--------ARELVTEK-----GQKY--P--GDV
+PLYLAK------------------LESDQ------SYLTI---KQEDQ----------EV
+----------VPIFFEK-----ATIDRWIETVSQTRPELGQD------------------
+----------------------------------------ISIN----------------
+---------VISLSSLIANLENND-----NALLRSLRFWPSQEMMKIIRS
+[20] Nostoc_punctiforme_ATCC_29133@
+ALPQDQIVK-------------------------KLQEVPVFTLTNPKGEFVVLSRK--N
+N-ASKP---------ISQVGFFISKQDAQKFLDNRLKKE--------------N------
+PQLA----------STLQ--------VRPL-SLADYYKI------VQESKKKS--DSVIY
+TLVPTQA----------------QVAS--------ATSMLNQN-----GKKG--EQFNGI
+PLFVPK------------------FKKDN------SYLTIP-LAKGNE----------RY
+----------IPFFFEK-----EQAVALLEQFKKAVPKEAEN------------------
+----------------------------------------TEIQ----------------
+---------VVDLYGVMEALNSSS-----DPSINKIVLYPSRESISFIRS
+[21] Nostoc_punctiforme_PCC_73102@
+ALPQDQIVK-------------------------KLQEVPVFTLTNPKGEFVVLSRK--N
+N-ASKP---------ISQVGFFISKQDAQKFLDNRLKKE--------------N------
+PQLA----------STLQ--------VRPL-SLADYYKI------VQESKKKS--DSVIY
+TLVPTQA----------------QVAS--------ATSMLNQN-----GKKG--EQFNGI
+PLFVPK------------------FKKDN------SYLTIP-LAKGNE----------RY
+----------IPFFFEK-----EQAVALLEQFKKAVPKEAEN------------------
+----------------------------------------TEIQ----------------
+---------VVDLYGVMEALNSSS-----DPSINKIVLYPSRESISFIRS
+[22] Anabaena_variabilis_ATCC_29413@
+ALSEQQIKE-------------------------KLDSVPIYLVTNEKGLPLSRPLPNAQ
+NGQKAG---------GSITGAYMSRQEAQAFIN-ELRNA--------------KNKDPKM
+QEIV----------KSLQ--------VTAV-PLGVIYQQ------LQQTKKDP--NRLLF
+AFKPVDQ----------------EIKG--------AMDLLRQS-----GQQV--NQFKSV
+PMFAVR------------------FAPDQ------GYVPIK-VGTGNE----------QV
+----------VPLFLSK-----QDAQGLLGQVKPKHP----K------------------
+----------------------------------------ADIQ----------------
+---------VLDIDGVLQTLQDKN-----DPWLNQVVLVPSPESREYIRT
+[23] Nostoc_sp_PCC_7120@
+ALSEQQIKE-------------------------KLDSVPIYLVTNEKGLPLSRPLPNAP
+NGQKAG---------GSITGAYMSRQEAQAFIN-ELRNA--------------KNKDPKM
+QEIV----------KSLQ--------VTAV-PLGVIYQQ------LQQTKKDP--NRLLF
+AFKPVDQ----------------EIKG--------AMDLLRQS-----GQQV--NQFKSV
+PMFAVR------------------FAPDQ------GYVPIK-VGTGNE----------QV
+----------VPLFLSK-----QDAQGLLGQVKPKHP----K------------------
+----------------------------------------ADIQ----------------
+---------VLDIDGVLQTLQDKN-----DTWLNQVVLVPSPESREYIRT
+[24] Nodularia_spumigena_CCY9414@
+ALSEEQIKI-------------------------KLDAVPVYLITNKEGLPLSRPLPNA-
+--EKPG---------GSVTGVYMSRQEAQSFIK-ELQGA--------------QGKDPKT
+QQMV----------KSLQ--------VTAV-PLGVIYQQ------LQQSKNQS--ERLLF
+AFKPVEQ----------------EIKG--------AMELLRKS-----GQQV--NQFTSV
+PVFAVR------------------FSPDQ------GYVPIQ-LKSDKE----------QL
+----------IPLFLSK-----QDAQGLLTQVKPKFP----K------------------
+----------------------------------------ADIQ----------------
+---------VIDIDGVIKTLQDKN-----DSWLNQVVLVPSQESREYIKT
+[25] Synechococcus_sp_JA_2_3B_a2_13@
+PMSRQEVAE-------------------------RLNLVPVFAIVSQNGTPVVANVER--
+--DGRT---------IQVVSFWLDQAQAQQVLE-QVKAS--------------N------
+PEIA----------SQAR--------VVPL-SLGYAYEK------SEEERAKN--SDLYF
+EVVPRAS----------------DVEA--------AKQVLKET-----GQDV-PAEAIGV
+PLFYGR------------------SG--E------GLLTI---EQDGH----------EV
+----------VPFFFDR-----NDLRRALDRAAAQNPDVVGK------------------
+----------------------------------------TQIE----------------
+---------VTSLAIVVERMLAPD----AQADVQKIAFIPSRSALEYIQS
+[26] Synechococcus_sp_JA_3_3Ab@
+PMSRQEVAE-------------------------RLNLVPVFAIVSQNGTPVVANVER--
+--EGRT---------IQVASFWLDQNQAQQALD-QVKAK--------------N------
+PEVG----------QQAQ--------VVPI-PLGYAYEK------SEEERAKN--SNLYF
+EVVPRAA----------------DVEA--------AKQVLKET-----GQEV-PPEVIGV
+PLFYGR------------------SG--E------GLLTI---EQDGQ----------EV
+----------VPFFFDR-----NDLKGALDRAAAQNPEVVGK------------------
+----------------------------------------TQIE----------------
+---------VTSLAIVVERMLAPD----AQEDVQKIAFIPPRASLEYVQS
+[27] Gloeobacter_violaceus_PCC_7421@
+ALTQAQIIE-------------------------KLKPVVLFTVATADGKPLLSLPPD--
+--GSKG---------PLVAGVYFSPQDAEAFVA-AFKKK--------------D------
+AARG----------GQLR--------VQPV-SLGNLYRL------RLESRGTE--EEVTL
+AFFANRT----------------EVEW--------ALSLLQAA-----GRKP--EDLQGA
+PLFAAT-----------------VNAGKK------QYLTL---QQNNR----------TV
+----------VPVYFTK-----QEMTAFIDRYRRQQANANVP------------------
+----------------------------------------VTVE----------------
+---------VLDLEGILEALQEPT-----DSQTKKVMLVTPKAALDYART
+[28] Synechococcus_sp_PCC_7002@
+ALPEAAVVE-------------------------KLRPIPMYMLINDEGQPIFATVTDQN
+GGE------------SGVTGVFVSLSDAENLVA-ARQTESKRLLDAERAKPNAD------
+PQIVAELEAQAALWQEAN--------VLPI-GLDKIYQF------AQSDEA----EDLTF
+KFLPTMA----------------QLNA--------AAQVTQQ------------ENFPGV
+PLFFLS-----------------IQEKDANGQDIVSFPTLAGDDNNGN----------GE
+----------IPVFFEV-----QPILEQLDAFPEDEE-----------------------
+----------------------------------------LSIN----------------
+---------VMPLEVFIAKLLDEDLPAEEQEFLESMTLIPSTESAQLIQA
+[29] Synechococcus_sp_PCC_7335@
+ALSEEQIVQ-------------------------QREAVLSFILEDEEGPIAG-------
+---------------PDGILVFVTLQSASDYIA-ANRLE--------------D------
+----T---------DTIK--------VIPT-NLERIHQV------AEEIEG----EPLRI
+TLVPEEA----------------EVEN--------ARDIDP-------------DYQGGV
+PLFYAQ-------------------------LPNGAFAPL--WQPDGE----------VV
+----------FPLYFSR-----SDLDESLARLPQEELG----------------------
+----------------------------------------IEVA----------------
+---------VIPLQVILQEIHTSD-----NEDLSRIRMLSPQ-VVDAIRA
+[30] Aquilegia_coerulea_gnl|BL_ORD_ID|27934
+AMATEDIEE-------------------------RLAGIPVYALSNSDEEFVLISGV--K
+TG-------------KSLGLLCFSKNDADTLLE-QMKSM--------------D------
+PGMR----------QSSK--------VVAV-ALNKVFQL------KL--------DGVAF
+RFIPDSS----------------QIKN--------AIQVNQNA-----G-LS-DQGFSGV
+PVFQSQ------------------------------SLVL---KSQDK----------RY
+----------RPIFFRK-----EDLENSLRRASIQQKQLNPAFRQ---------------
+----------------------------------------GDIQ----------------
+---------VSVLEEIIKTMKESS-----TSKWDDVVFIPPGFDVSTSVP
+[31] Vitis_vinifera_gnl|BL_ORD_ID|21103
+------------------------------------------------------------
+------------------------------------------------------------
+--MR----------QGSK--------VVAV-ALNKVFQL------KL--------DGVAF
+RLMPDST----------------QVKN--------ALRVMEKA-----G-FS-DDGFSGV
+PVFQSR------------------------------SLIL---QSQDK----------KY
+----------RPVFFRK-----EDLENSLLSASNQQNRLNPAFRQ---------------
+----------------------------------------GDIQ----------------
+---------VAVFEEIIKGMQENA-----SRQWDDVVFIPPGFDASISSP
+[32] Arabidopsis_lyrata_gnl|BL_ORD_ID|6046
+GLTADAIEE-------------------------RLAGVPVYALSNSNEEFVLVSGT--S
+SG-------------KSLGLLFCKEEDAETLLK-QMKSM--------------D------
+PRMRK---------EGSK--------VVAL-ALSKVFQL------KV--------NGVAF
+RLIPEST----------------QVKN--------ALKERKTA-----G-ID-DDDFHGV
+PVFQSK------------------------------SLIL---RSENM----------SY
+----------RPVFFRK-----EDLEKSLIRASSQQNRLNPALKP---------------
+----------------------------------------GDIQ----------------
+---------VAVFEDIVKGMKEST-----TSNWDDIVFIPPGFEVSTEQT
+[33] Arabidopsis_thaliana_AT3G23710.1
+GLSADAIEE-------------------------RLAGVPVYALSNSNEEFVLVSGT--S
+SG-------------KSLGLLFCKEEDAETLLK-EMKSM--------------D------
+PRMRK---------EGSK--------VVAL-ALSKVFQL------KV--------NGVAF
+RLIPEST----------------QVKN--------ALKERKTA-----G-ID-DDDFHGV
+PVFQSK------------------------------SLIL---RSENM----------SY
+----------RPVFFRK-----EDLEKSLIRASSQQNRLNPALKP---------------
+----------------------------------------GDIQ----------------
+---------VAVFEDIVKGMREST-----TSNWDDIVFIPPGFEVSTEQT
+[34] gnl|BL_ORD_ID|24015
+GLSADAIEE-------------------------RLAGVPVYALSNSNEEFVLVSGT--S
+SG-------------KSLGLLFCKEEDAETLLK-EMKSM--------------D------
+PRMRK---------EGSK--------VVAL-ALSKVFQL------KV--------NGVAF
+RLIPEST----------------QVKN--------ALKERKTA-----G-ID-DDDFHGV
+PVFQSK------------------------------SLIL---RSENM----------SY
+----------RPVFFRK-----EDLEKSLIRASSQQNRLNPALKP---------------
+----------------------------------------GDIQ----------------
+---------VAVFEDIVKGMREST-----TSNWDDIVFIPPGFEVSTEQT
+[35] Capsella_rubella_gnl|BL_ORD_ID|15119
+GLSADAIEE-------------------------RLAGVPVYALSNSNEEFVLVSGT--S
+SG-------------KSLGLLFCKEEDAETLLR-QMKSM--------------D------
+PRMRK---------EGSK--------VVAL-ALSKVFQL------KV--------NGVAF
+RLIPEST----------------QVKN--------ALKERKTA-----G-ID-DDDFHGV
+PVFQSK------------------------------SLIL---RSENM----------SY
+----------RPVFFRK-----EDLEKSLKRASSQQNRLNPALKP---------------
+----------------------------------------GDIQ----------------
+---------VEVFEDIVKGMKENT-----SSSWDDIVFIPPGFDVSTEQT
+[36] Brassica_rapa_gnl|BL_ORD_ID|19281
+GLSADDMEE-------------------------RLAGVPVYALSNSNEEFVLVSGT--A
+TG-------------KSLGLLFCKAEDAEALLN-QMKAM--------------D------
+PRMRK---------EGSK--------VVAL-ALSKVFQL------KV--------NGVAF
+RLIPEST----------------QVQN--------ALKERKTA-----G-FT-DDDFNGV
+PVFQSK------------------------------SLIL---RSDNK----------SY
+----------RPVFFRK-----EDLEKSLTRASRQQNRLNPALKP---------------
+----------------------------------------GDIQ----------------
+---------VAVFEEIVKGMKENA-----TSNWDDIVFIPPGFEVSTEET
+[37] Thellungiella_halophila_gnl|BL_ORD_ID|17021
+GLSAEDMEE-------------------------RLAGVPVYALSNPNEEFVLVSGT--S
+TG-------------KSLGLLFCREEDAEALLK-QMKMM--------------D------
+PRMRK---------EGSK--------VVAL-ALSKAFQL------KV--------NGVAF
+RLIPEST----------------QVKN--------ALKERKTA-----G-FT-DDDFHGV
+PIFQSK------------------------------SLIL---RSDNK----------TF
+----------RPVFFRK-----EDLEKSLIRAARQQNRLNPALKP---------------
+----------------------------------------GDIQ----------------
+---------VAVFEEIVKGMKES------ASNWDDIVFIPPGFEVSTEQT
+[38] Citrus_clementina_gnl|BL_ORD_ID|22986
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----SR------------------------------SLVL---RSQNK----------SY
+----------RPVFFRK-----EDLEKSLRRASSDQNKLNPAFRM---------------
+----------------------------------------ADIQ----------------
+---------VAVFEEIIKGMKEST-----TSAWNDVVFIPPGFDVSTNPN
+[39] Citrus_sinensis_gnl|BL_ORD_ID|27222
+-MSAEAIEE-------------------------RLAGVPVYALSNCNEEFVLVSGA--K
+TG-------------KSLGLMCFKKEDAEALLH-QMKSM--------------D------
+PAMRK---------EGSR--------VVPV-PLNKVFQL------KV--------NGVAF
+RLIPEST----------------QVKN--------ALREMEKA-----G-FS-DDAFAGV
+PVFQSR------------------------------SLVL---RSQNK----------SY
+----------RPVFFRK-----EDLEKSLRRASSDQNKLNPAFRM---------------
+----------------------------------------GDIQ----------------
+---------VAVFEEIIKGMKEST-----TSAWNDVVFIPPGFDVSTNPN
+[40] Populus_trichocarpa_gnl|BL_ORD_ID|39914
+SMSTETIEE-------------------------RLAGVPVYALSNSNEEFVLVSGL--S
+TG-------------KSLGLFCFKQEDAEALLE-QMKSM--------------D------
+PGMRK---------GGSK--------VVPV-ALNKVFQL------KV--------DGVAF
+RLIPEPS----------------QVKN--------ALMERERA-----G-LS-DDCFSGV
+PVFQSR------------------------------SLVL---KSQNR----------SY
+----------RPVFFRK-----EDLEKSLLRASREQHKVNPAFKQ---------------
+----------------------------------------GDIE----------------
+---------VAVFEEIIKCMKEGS-----ATTWDDVVFIPPGFDVSTTPA
+[41] Manihot_esculenta_gnl|BL_ORD_ID|7496
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--LQSR------------------------------SLVL---RSQNK----------SY
+----------RPVFFRK-----EDLDKSLMRASRQQRKLNPALRQ---------------
+----------------------------------------GDIQ----------------
+---------VAVFEEIIKSMKESS-----TSMWDDVVFIPPGFDVSTDPA
+[42] Ricinus_communis_gnl|BL_ORD_ID|18305
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--FQSR------------------------------SLVL---KSENK----------SY
+----------RPVFFRK-----EDLEKSLLRASRQQKKLNPAFRQ---------------
+----------------------------------------GDIQ----------------
+---------VAVFEEIIKSMKESS-----TSTWDDVVFIPPGFDVSTGTA
+[43] Malus_domestica_gnl|BL_ORD_ID|37333
+AMSTEDIEE-------------------------RLAGVPVYALSNASEEFVLVSGA--S
+TG-------------KSLGLFCFKKEDADALLE-HIRIM--------------D------
+PGMR----------SGSK--------VVAV-ALNKVFQL------KV--------DGVAF
+RLIPEYS----------------QVKN--------ALKEREKV-----G-TSDDDGFPGV
+PVFQ--------------------------------------------------------
+----------------------EDLENSLSRASRDQNQLNPAFRP---------------
+----------------------------------------GDVQ----------------
+---------------------EGS-----TSTWDDVVFIPPGFDISTDPN
+[44] Prunus_persica_gnl|BL_ORD_ID|2248
+AMSTEAIEE-------------------------RLAGVPVYALSNAAEEFVLVSGA--S
+SG-------------KSLGLFCFKKEDAEALLE-HIRIM--------------D------
+PGMR----------SGSK--------VVAV-ALNKVFQL------KV--------DGVAF
+RLIPEYS----------------QVKN--------ALKEKEKV-----G-TSDDDGFPGV
+PVFQSR------------------------------SLIL---RSQSK----------SY
+----------RPVFFRK-----EDLESSLSRASREQNQLNPAFRP---------------
+----------------------------------------GDVQ----------------
+---------VAVLEEVIKGMKEGS-----TSTWDDVVFIPPGFDISTDPT
+[45] Cucumis_sativus_gnl|BL_ORD_ID|30344
+SLSTEAIEK-------------------------RLAGIPVYALSNASEEFVLVSGA--S
+AQ-------------KSLGLFCFKKDDAETLLQ-HIGTM--------------D------
+PSAR----------YGSK--------VVPV-ALNKVFQL------NV--------NGVAF
+RLIPECS----------------QVKN--------ALTERKKA-----G-IS-ADGFSGV
+PVFQSK------------------------------SLIL---RVQNK----------SY
+----------RPAFFRK-----EDLENSLQRASREQNQINPALRP---------------
+----------------------------------------GDIQ----------------
+---------VAVFEEIIKGMKDNS-----ISTWDDIVFIPPGFDVSTDPK
+[46] Carica_papaya_gnl|BL_ORD_ID|5878
+SMSDESIEE-------------------------RLAGVPVYALSNSDEEFVLVSGV--S
+TK-------------KSLGLLCFKKEDAEVLLQ-QMKSM--------------D------
+PGMRK---------EGSK--------VVAI-ALNKVFQL------KL--------DGVAF
+RLIPESA----------------QVKN--------AIKERAKA-----G-FS-DDGFPGV
+PVFQSR------------------------------SLIL---RSQNK----------SY
+----------RPVFFRK-----EDLEKSLARASRQQKQLSPAFRQ---------------
+----------------------------------------GDIQ----------------
+---------VAVFEEIIKGMKETS-----TSKWDDVVFIPPGFDVLIVAA
+[47] Eucalyptus_grandis_gnl|BL_ORD_ID|44100
+LMSEEEIQE-------------------------RLAGVPVYALSNASEEFVLVSGI--S
+TR-------------KALGLFCFKEEDAEVLLE-QMKSM--------------D------
+PGMR----------GGSR--------VVPV-ALNKVFQL------KV--------DGVAF
+RLIPELS----------------QIKN--------AIQVRQTV-----G-LS-DEAFLGV
+PVFQSR------------------------------SLIL---KSQSR----------SY
+----------RPVFFRK-----EDLENSLLRASHQQNRLNPALRP---------------
+----------------------------------------GDIQ----------------
+---------VAVLEEIIKGMKEGS-----NSPWDDVVFIPPGFDVATDPS
+[48] Mimulus_guttatus_gnl|BL_ORD_ID|25392
+AISPEAIDE-------------------------RLAGVPVYALSNGSQEFVLLSGT--N
+TG-------------KNLGLFCFSEADAETLLE-QMKSV--------------D------
+PTMS----------SGSK--------VVPV-ALSKIFQL------KV--------DGVAL
+RLMPEAS----------------QIQN--------ALKERERA-----G-IR-EESFPGV
+PVFQSK------------------------------SLIL---RSQTK----------QY
+----------RPVFFRK-----EDLEKSLSRASRDQKQLNPSLRK---------------
+----------------------------------------GDVQ----------------
+---------VAVLEEIIQGMKDSS-----ASSWDDVVFIPPGFDVSTDGS
+[49] Glycine_max_gnl|BL_ORD_ID|12487
+AMTVEAIEE-------------------------RLEGIPVYALSNASEEFLLVSGS--S
+SG-------------KNLGLFCFNKDDAEALLN-QVTLI--------------D------
+PHAR----------QGSK--------VVPV-ALNKVFQL------KV--------NGVAF
+RLIPEFS----------------QVKN--------ALQEREKS-----G-FA-SSGFSGV
+PVFQSR------------------------------SLIL---KSQNK----------RF
+----------RPLFFRK-----EDLENTLKSAAREQNKLNPTMRK---------------
+----------------------------------------GDIQ----------------
+---------VATLEDVIKEMKENS-----TSNWDDVIFIPPGFDVSDDSN
+[50] Phaseolus_vulgaris_gnl|BL_ORD_ID|22411
+PMTVEAIEE-------------------------RLEGIPVYALSNASEEFLLVSGS--S
+SG-------------KNLGLFCFNKDDAEALLN-QVTLI--------------D------
+PHAR----------PGSK--------VVPV-ALNKVFQL------KV--------NGVAF
+RLIPEFS----------------QIQN--------ALKEREKS-----G-SA-SSGFSGV
+PVFQSR------------------------------SLIL---KNENK----------RY
+----------RPLFFRK-----EDLENTLKSAARDQNRLNPTMRR---------------
+----------------------------------------GDIQ----------------
+---------VATLEDVIKEMRENS-----ASNWDDVIFIPPGFDVSDDSN
+[51] Linum_usitatissimum_gnl|BL_ORD_ID|32509
+PLTSQAIEA-------------------------RLAGVPVYALSNSRDEFVLVSGVSSS
+TP-------------KSLGLMCFKKEDADTLLL-QMKSM--------------D------
+PLMRS---------GGSK--------VVAV-ALNKVFQL------KV--------DGVSF
+RLIPEYA----------------QVKN--------ALNELKNA-----G-VS-DDGFPGV
+PVFQST------------------------------SLVL---RSKNK----------SY
+----------RPVFFRK-----EDLEKSLLRASQDQKKLNPALKE---------------
+----------------------------------------GGIE----------------
+---------VAVFEDVIKSMQE-------TSAWNDVVFIPPGFDVSTGSA
+[52] Brachypodium_distachyon_gnl|BL_ORD_ID|10569
+ALPVAEIED-------------------------RLSGVPVYALANSSQEFVLVSKT--H
+GGGAEGESS-GARPPPALGVLCFRREDADALLA-QM-----------------D------
+GTMR----------AGST--------VVPV-ALNKVIQL------KS--------DGVAF
+RFLPDFT----------------QVAN--------AMKLMQDE-----GQLV-NEGFLGV
+PVFQSR------------------------------SLVL---MSDSK----------RC
+----------RPVFFRK-----EDLDNSLHRASRDQQKPNP-VRI---------------
+----------------------------------------GDTQ----------------
+---------VSSLEDMITSMKDSS-----SSTWDDVVFIPPGFDLATGSK
+[53] Oryza_sativa_gnl|BL_ORD_ID|18324
+ALPVAEIEE-------------------------RLAGVPVYALANSSQEFVLVSSA--R
+GGGGGGGGARAAVPPPALGLLCFRREDADALLA-QM-----------------D------
+GDMA----------AGST--------VVPV-ALNKVIQL------KS--------DGVAF
+RFVPDSS----------------QVAN--------AMKLMENE-----GQYV-NDGFPGV
+PVFQSR------------------------------SLVL---MSDNK----------RY
+----------RPVFFRK-----EDLDNSLHRASRDQQKPNPAVKM---------------
+----------------------------------------GDIQ----------------
+---------VSSLENIIKSMKDSS-----SSKWDDAVFIPPGFDLATSSK
+[54] Panucum_virgatum_gnl|BL_ORD_ID|5046
+PLPSAEIEE-------------------------RLAGVPVYALANAAHEIVLVSSA--R
+AEGQHG-GV-GARPPPALGLLCFRKEDADALLE-QM-----------------E------
+GDMR----------AGSS--------VVPV-ALNKVIQL------KS--------DGVAF
+RLLPDSS----------------QVAN--------AIKLMQDE-----GLYA-REGFPGV
+PVFQSR------------------------------SLVL---MSDNK----------RY
+----------RPVFFRK-----EDLDNSLYRTSRDQQKPNPAVRL---------------
+----------------------------------------GDTQ----------------
+---------VSSLEDIIKSMKDSS-----SSKWDDVVFIPPGFDLATGSK
+[55] Sorghum_bicolor_gnl|BL_ORD_ID|6203
+ALPTAEIEE-------------------------RLAGVPVYALANAAQEFVLVSST--R
+VGGQGGEGV-RVRPPPALGLLCFRKEDADALLE-QM-----------------E------
+GDMR----------AGSS--------VVPV-ALNKVIQL------KS--------DGVAF
+RFLPDSS----------------QVAN--------AIKLMQDE-----GLYA-REGFPGV
+PVFQSR------------------------------SLVL---MSDNK----------RY
+----------RPVFFRK-----EDLDNSLHRTSRDQQKPNPAVRF---------------
+----------------------------------------GDTQ----------------
+---------VSSLEDIIKSMKDSS-----SSKWDDVVFIPPGFDLATGST
+[56] Zea_mays_gnl|BL_ORD_ID|14867
+ALPTSEIEE-------------------------RLAGVPVYALANAAQEFVLVSST--R
+VGGQGGES---VSPTQALGLLCFRKEDADALLE-QM-----------------D------
+GDMR----------AGSG--------VVPV-ALNKVIQM------KS--------DGVAF
+RFLPDSS----------------QVAN--------AIKLMQDE-----GLYA-GEGFPGV
+PVFQSR------------------------------SLVL---MSDNK----------RY
+----------RPVFFRK-----EDLDNSLHRTSRDQQKPNPAVRF---------------
+----------------------------------------GDTQ----------------
+---------VSSLEDIIKSMKDSS-----SSKWDDVVFIPPGFDLATGST
+[57] Panucum_virgatum_gnl|BL_ORD_ID|36616
+PLPSAEIEE-------------------------RLAGVPVYALANAANEIVLVSSA--R
+AGGQHG-GR-GARPPPALGLLCFRKEDADALLE-QM-----------------E------
+GDMR----------AGSC--------VVPV-ALNKVIQL------KS--------DGVAF
+RFLPDSS----------------QVAN--------AIKV---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------TVFCP----------
+[58] Aquilegia_coerulea_gnl|BL_ORD_ID|19107
+ALSSDYVAK-------------------------TLAGTAVYTVSNSNNEFVLISDP--N
+NI-------------KSLGILCFRQEDAETLLA-QVQLK--------------Q------
+PILC----------RGAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPA----------------QIRN--------ALELKA-------A-DL-KNGFDGV
+PVFQSD------------------------------LLVV---RKKNK----------RY
+----------CPIYFQK-----EDLEKELMKVTRISRGSGLS------------------
+----------------------------------------QNIV----------------
+---------VGSLEDVLKKMEMSD----KNSGWEDLIFIPPGKSYSQHVQ
+[59] Citrus_clementina_gnl|BL_ORD_ID|23342
+TLSSDFVSK-------------------------TLAGTAVYTVSNSSNEFVLISDP--N
+GA-------------KSIGLLCFRQEDAEAFLA-QVRLR--------------R------
+KELR----------SAAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPA----------------QIRN--------ALEMKA-------A-DV-RTGFDGV
+PVFQSE------------------------------LLVV---KKKNK----------RY
+----------CPVYFQK-----EDIEKELSKVSRASRGAGVS------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLKKMETSE----KNSGWEDLIFIPPGKSHSQHIQ
+[60] Citrus_sinensis_gnl|BL_ORD_ID|1469
+TLSSDFVSK-------------------------TLAGTAVYTVSNSSNEFVLISDP--N
+GA-------------KSIGLLCFRQEDAEAFLA-QVRLR--------------R------
+KELR----------SAAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPA----------------QIRN--------ALELKA-------A-DV-RTGFDGV
+PVFQSE------------------------------LLVV---KKKNK----------RY
+----------CPVYFQK-----EDIEKELSKVSRASRGAGVS------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLKKMETSE----KNSGWEDLIFIPPGKSHSQHIQ
+[61] Manihot_esculenta_gnl|BL_ORD_ID|17460
+TLSSDHVAK-------------------------TLAGTAVYTVSNTNNEFVLISDP--D
+GA-------------KSISLLCFRQEDAETFLA-QVRLR--------------R------
+RELR----------SKAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALELKA-------A-GV-NSGFDGV
+PVFQSD------------------------------LLVV---KKKNK----------RY
+----------CPIYFQK-----EDIEKELSKVSRASRGLGLA------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLRKMEMSE----NNSGWEDLIFIPPGKSCSQHIQ
+[62] Ricinus_communis_gnl|BL_ORD_ID|23562
+GLSSEHVAK-------------------------TLAGTAVYTVSNSNNEFVLVSDP--D
+GA-------------KSISLLCFRQEDAEAFLA-QVRLR--------------R------
+RELR----------SQAR--------IVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALELKA-------S-DT-KRGFDGV
+PIFQSE------------------------------LLVV---KKKNK----------RY
+----------CPIYFQK-----EDIEKELSKVSRASRGPGLS------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLRKMEMSE----KNSGWEDLIFIPPGKSHSQHIQ
+[63] Populus_trichocarpa_gnl|BL_ORD_ID|40080
+NLSSDHVAK-------------------------TLAGTAVYTVSNSNNEFVLISDP--N
+GA-------------KSIGLLCFRQEDAEAFLA-QVRLR--------------R------
+RELR----------SQAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALELKA-------V-DI-RSGFDGV
+PVFQSD------------------------------LLVV---KKKNK----------RY
+----------CPIYFQK-----EDIEKELSKVSKASRGPSLS------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLKKMEISE----KKSGWEDLIFIPPGKSHSQHIH
+[64] Populus_trichocarpa_gnl|BL_ORD_ID|16649
+NLSSEHVAK-------------------------ALAGTAVYTVSNSDNEFVLISDP--N
+GA-------------KSIGLLCFRQEDAEAFLA-QVRLR--------------R------
+RELR----------SQAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALELKS-------A-DV-RSGFDGV
+PVFQSD------------------------------QLIV---KKKSK----------RY
+----------CPVYFQK-----EDIEKELSKVSRASRGPGLS------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLKKMEISE----KNSGWEDLIFIPPGKSHSQHIQ
+[65] Vitis_vinifera_gnl|BL_ORD_ID|5277
+ALSSDHVAK-------------------------SLAGTAVYTVSNSNNEFVLISDP--N
+GI-------------KSIGLLCFRQEDAEAFLA-QVQSR--------------T------
+RELR----------SQAR--------VVPI-SLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALELKA-------A-DI-KSGFDGV
+PVFQSD------------------------------LLVV---KKKNR----------RY
+----------CPIYFQK-----EDIVKELSKVSRSSRGPGVT------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLRKMETSE----KNSGWEDLIFIPPGKSHSQHIQ
+[66] Malus_domestica_gnl|BL_ORD_ID|47835
+TLSSDHVAK-------------------------SLAGTAVYTVSNSNNEFVLISDP--N
+EA-------------KSIGLLCFRQEDAEAFLA-QVRSR---------------------
+RELR----------SAAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLXDPV----------------QIRN--------ALELXS-------A-D--RSAFDGV
+PVFQ--------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------VG---------------------------------------
+[67] Prunus_persica_gnl|BL_ORD_ID|11774
+TISSDHVAK-------------------------SLAGTAVYTVSNSNNEFVLISDP--N
+EA-------------KSIGLLCFRHEDAEAFLA-QVRSR---------------------
+RELR----------SAAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIRN--------ALELKS-------A-D--RSAFDGV
+PVFQSD------------------------------LLVM---KKKNK----------RY
+----------CPIYFTK-----EDIEKELSKVSRVSRGPGVS------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLRKMELSE----KNSGWEDLIFIPPGKSYSQHIQ
+[68] Mimulus_guttatus_gnl|BL_ORD_ID|27398
+SLNSEHVAR-------------------------RLAGTSVYTVSNTNNEFVLISDR--D
+GV-------------KSIGLLCFRREDAEAFLA-QVRSR--------------R------
+GELR----------GGAK--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALELKA-------S-EI-KTGFDGV
+PVFQSD------------------------------LLVV---KKRNK----------RY
+----------CPIYFQK-----EDIERALSTVSRVSRGPGAA------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLKKMEINE----KNSGWEDLIFIPPGKSHSQHIQ
+[69] Eucalyptus_grandis_gnl|BL_ORD_ID|21440
+SAPASGVAR-------------------------TLAGTAVYTVSNSNNEFVLVSDP--D
+GT-------------KSIGLLCFRQEDAESFLA-QVRLR--------------R------
+RELK----------GQAR--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALEMKA-------T-NT-KNGFDGV
+PVFQSD------------------------------LLVV---KKKNR----------RF
+----------CPIYFRK-----EDIEKELSMVSRASRGAVLS------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLRKMEMSE----KNSGWEDLIFVPPGKSHAQHIQ
+[70] Glycine_max_gnl|BL_ORD_ID|8827
+TLGSLHVAK-------------------------SLVGTSVYTVSNSNNEFVLISDA--D
+GA-------------KSIGLLCFRQEDAEAFLA-QVRSR--------------S------
+RELR----------SKAR--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIRN--------ALELKP-------A-N--KGGFDGV
+PVFQSE------------------------------LLVV---KKKKK----------RY
+----------CPVYFSK-----EDIEQELSKVSRASRGPGVS------------------
+----------------------------------------QHIA----------------
+---------VGSLEDVLRKMEMSE----RNSGWEDLIFIPPGKSRSQHIQ
+[71] Phaseolus_vulgaris_gnl|BL_ORD_ID|5597
+TLGSHHVAK-------------------------SLVGTSVYTVSNSNNEFVLISDA--D
+GA-------------KSIGLLCFRQEDAQAFLA-QVRSR--------------S------
+RELR----------SKAR--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALELKP-------A-N--KGGFDGV
+PVFQSE------------------------------LLVV---KKKNK----------RY
+----------CPVYFSK-----EDIEQELSKVARTSRVPGAS------------------
+----------------------------------------QHIV----------------
+---------VGSLEDVLKKMEMSE----RSTGWEDLIFIPPGKSHSQHIQ
+[72] Medicago_truncatula_gnl|BL_ORD_ID|21124
+TLTSNHVAK-------------------------SLAGTSVYTVSSSNNEFVLMSDA--E
+GA-------------KSIGLLCFRQEDAEAFLA-QVRSR--------------K------
+NEFR----------GNAK--------VVPI-TLEQVYLL------KV--------EGIAF
+RFLPDPL----------------QIRN--------ALELRA-------A-N--KEGFDGV
+PVFQSE------------------------------LLVV---KKKNK----------RY
+----------CPVYFSK-----EDIEQELSKVSRVSKGPGVS------------------
+----------------------------------------KQIM----------------
+---------VGSFEDVLKKMEMSE----KNSGWDDLIFIPPGKSRSQHIQ
+[73] Carica_papaya_gnl|BL_ORD_ID|16793
+TLSSEQVAK-------------------------ALAGTPVYTVSNSNNEFVLVSDP--N
+GV-------------KSISLLCFRQEDAEAFLA-QVRLR--------------R------
+RELR----------SNAK--------VVPV-SLDQVYSL------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALELKS-------A-DI-NSGFDGV
+PVFQSD------------------------------LLVV---KKKNK----------RY
+----------CPVYFNK-----EDIEKELLKSSRVSRGLGVS------------------
+----------------------------------------QHIM----------------
+---------S---RRCLRKMEMSE----RNSGWGDLIFIPPGKSHSQHIQ
+[74] Brachypodium_distachyon_gnl|BL_ORD_ID|15294
+ALAPDEVAR-------------------------ALTGTPVFTVCNSSNEFVLVSDPA-T
+GL-------------RSLGLLCFRSEDADALLS-HVRTR--------------Q------
+PVLG----------KGAK--------VVPI-TLDQVYML------KA--------EGIAF
+RFLPDPL----------------QIKN--------ALELKS-------G----LTGFDGV
+PVFQSD------------------------------LLVV---KKQKK----------RY
+----------CPIYFQK-----EDIERELKKASKGSKGSALL------------------
+----------------------------------------KQIM----------------
+---------VGSLEDVLKKMEIND----RNSGWDDMIFIPPGKSLNQHIN
+[75] Panucum_virgatum_gnl|BL_ORD_ID|9252
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------ML------KA--------EGIAF
+RFLPDPL----------------QIKN--------ALELKS-------G----LTGFDGV
+PVFQSD------------------------------LLVV---KKQKK----------RY
+----------CPIYFQK-----EDIERELTKASKSSRGSALS------------------
+----------------------------------------KQIM----------------
+---------VGSLEDVLKKMEINE----RNSGWDDLIFIPPGKSLNQHIN
+[76] Sorghum_bicolor_gnl|BL_ORD_ID|27712
+ALAPDEVAR-------------------------ALTGTPVFTVCNSSNEFVLVSDPA-T
+GL-------------RSLGLLCFRSEDADALLS-HVRTR--------------Q------
+PVLG----------KGAK--------VVPI-TLDQVYML------KA--------EGIAF
+RFLPDPL----------------QIKN--------ALEMKS-------G----LTAFDGV
+PVFQSD------------------------------LLVV---KKQKK----------RY
+----------CPIYFQK-----EDIERELTRASKGSRGSVLS------------------
+----------------------------------------KQIM----------------
+---------VGSLEDVLKKMEINE----RNSGWDDLIFIPPGKNLNQHIN
+[77] Zea_mays_gnl|BL_ORD_ID|17023
+SLAPDEVAR-------------------------ALTGTPVFTVCNSSNEFVLVSDPA-T
+GL-------------RSLGLLCFRSEDADALLS-HVRTR--------------Q------
+PVLG----------KGAK--------VVPI-TLDQVYML------KA--------EGIAF
+RFLPDPL----------------QIKN--------ALEMKS-------G----LTAFDGV
+PVFQSD------------------------------LLVV---KKQKK----------RY
+----------CPVYFQK-----EDIERELTRASKGSRGSALS------------------
+----------------------------------------KKIM----------------
+---------VGSLEDVLKKMEINE----RDSGWDDLIFIPPGKSLNQHIN
+[78] Oryza_sativa_gnl|BL_ORD_ID|49360
+ALAPDEVAR-------------------------ALTGTPVFTVCNSSNEFVLVSDPA-T
+GL-------------RSLGLLCFRSEDADALLT-HVRMR--------------Q------
+PVVG----------RGAK--------VVPI-TLDQVYML------KA--------EGIAF
+RFLPDPL----------------QIKN--------ALELKS-------G----LTAFDGV
+PVFQSD------------------------------LLVV---KKQKK----------RY
+----------CPIYFQK-------------------------------------------
+------------------------------------------------------------
+----------------LRRT------------------------------
+[79] Arabidopsis_lyrata_gnl|BL_ORD_ID|16763
+TLNPSLVAK-------------------------ALAGTSVFTVSNTNNEFVLISDP--T
+GD-------------KSIGLLCFRQEDAEAFLA-QARLR--------------R------
+RELK----------TNAK--------VVPI-TLDQVYLL------KV--------EGISF
+RFLPDPI----------------QIKN--------ALELKS-------S-GN-KNGFDGV
+PVFQSE------------------------------LLVV---RKKNR----------RY
+----------CPVYFSK-----EDIERELSKYTRASRG---D------------------
+----------------------------------------QQIM----------------
+---------VGSLEDVLRKMEMSE----KNSGWEDVIFIPPGRSYAQHMQ
+[80] Arabidopsis_thaliana_AT4G33350.1
+TLSPSLVAK-------------------------ALAGTSVFTVSNTNNEFVLISDP--T
+GG-------------KSIGLLCFRQEDAEAFLA-QARLR--------------R------
+RELK----------TNAK--------VVPI-TLDQVYLL------KV--------EGISF
+RFLPDPI----------------QIKN--------ALELKS-------S-GN-KNGFDGV
+PVFQSE------------------------------LLVV---RKKNR----------RY
+----------CPVYFSK-----EDIERELSKYTRASRG---D------------------
+----------------------------------------QQIM----------------
+---------VGSLEDVLRKMEMSE----KNSGWEDVIFIPPGRSYAQHMQ
+[81] Capsella_rubella_gnl|BL_ORD_ID|9515
+TLNPSLVAK-------------------------ALAGTSVFTVSNTNNEFVLISDP--T
+GD-------------KSIGLLCFRQEDAEAFLA-QARLR--------------R------
+RELK----------TNAK--------VVPI-NLDQVYLL------KV--------EGISF
+RFLPDPI----------------QIKN--------ALELKS-------S-GN-KNGFDGV
+PVFQSE------------------------------LLVV---RKKNR----------RY
+----------CPVYFSK-----EDIERELSKYTRASRG---D------------------
+----------------------------------------QQIM----------------
+---------VGSLEDVLRKMERSE----KNSGWEDVIFIPPGRSYAQHMQ
+[82] Thellungiella_halophila_gnl|BL_ORD_ID|14624
+TLNPSHVAK-------------------------ALAGTSVFTVSNTNNEFVLISDP--T
+GD-------------KSIGLLCFRQEDAEAFLA-QARLR--------------R------
+RELK----------TNAK--------VVPI-NLDQVYLL------KV--------EGISF
+RFLPDPI----------------QIKN--------ALELKS-------S-GS-KNGFDGV
+PVFQSE------------------------------LLVV---RKRNK----------RY
+----------CPVYFSK-----EDIERELSKYTRASRG---D------------------
+----------------------------------------QQIM----------------
+---------VGSLEDVLRKMERSE----KNSGWEDVIFIPPGRSYAQHMQ
+[83] Brassica_rapa_gnl|BL_ORD_ID|20295
+TLNPSHVAK-------------------------ALAGTSVFTVSNTNNEFVLISDP--T
+GD-------------KSIGLLCFRQEDAEAFLA-QARLR--------------R------
+RELK----------TNAK--------VVPI-NLDQVYLL------KV--------EGISF
+RFLPDPI----------------QIKN--------ALELKS-------S-SS-KNGFDGV
+PVFQSE------------------------------LLVV---RKKNK----------RY
+----------CPIYFSK-----EDIERELSKYTRA------D------------------
+----------------------------------------QQIM----------------
+---------VGSLEDVLRKMERSE----KNSGWEDMIFIPPGRSYAQHMQ
+[84] Cucumis_sativus_gnl|BL_ORD_ID|28871
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------V----------------ATHN--------QAALKA-------S-ET-GSSFDGV
+PVFQSD------------------------------LLIV---KKKNK----------RY
+----------CPIYFTK-----EDIEKELLKVPKARR-FGTS------------------
+----------------------------------------QHIM----------------
+---------VGSLEDVLKKMELNE----NNSAWEDLIFIPPGKSHSQHFQ
+[85] Linum_usitatissimum_gnl|BL_ORD_ID|3327
+RLSSDYVAK-------------------------RLTGTTVYTVSNTNNEFVLISDP--D
+GA-------------KSIGLLCFRKEDAEAFLY-QVRLR--------------R------
+NELR----------SAAK--------VVPI-TLEQVYML------KV--------EGISF
+RFLPDPV----------------QIKN--------ALEMKT-------S-ST-SSGFDGV
+PVFQSE------------------------------LLAV---KKKNR----------RF
+----------CPIYFQKVFGLAEDIDKELTKV---SRGRAIS------------------
+----------------------------------------PNIM----------------
+---------VGSLEDVVRKIETSE----KNSGWEDLIFIPPGKTQSEHIN
+[86] Linum_usitatissimum_gnl|BL_ORD_ID|39140
+RLSSDYVAK-------------------------RLTGTTVYTVSNTNNEFVLISDP--D
+GA-------------KSIGLLCFRKEDAEAFLS-QVRLR--------------R------
+NELR----------SSAK--------VVPI-TLEQVYML------KV--------EGIAF
+RFLPDPV----------------QIKN--------ALEMKT-------S-ST-RSGFDGV
+PVFQSE------------------------------LLAV---KKKNR----------RF
+----------CPIYFQK-----EDIDKELAKV---SRGRAIS------------------
+----------------------------------------PNIMGSKKFVAAVLRDVKGE
+NKLSIESRDVGSLEDVLRKIETSE----KNSGWEDLIFIPPGKTQSEHIN
+[87] Glycine_max_gnl|BL_ORD_ID|8828
+TLGSLHVAK-------------------------SLVGTSVYTVSNSNNEFVLISDA--D
+GA-------------KSIGLLCFRQEDAEAFLA-QVRSR--------------S------
+RELR----------SKAR--------VVPI-TLDQVYML------KV--------EGIAF
+RFLPDPV----------------QIRN--------ALEVSI---------LLYSSRIQHI
+TLSH--------------------------------TIIV---HHFSP----------VA
+----------MTVYMVA-------------------------------------------
+------------------------------------------------------------
+------------------------------AMWELVLWHQFKLNYT----
+[88] Cucumis_sativus_gnl|BL_ORD_ID|10678
+TLSPDQVAK-------------------------SLVGTAVYTVSNSNNEFVLISDP--N
+GA-------------KSIGLLCFRKEDAETFLA-QVRSR--------------K------
+RELR----------SNAK--------VVPI-TLDQVYLL------KV--------EGIAF
+RFLPDPI----------------QLKN--------ALEAX--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------
+[89] Panucum_virgatum_gnl|BL_ORD_ID|51866
+ALAPDEVAR-------------------------ALTGTPVFTVCNSNNEFVLVSDPG-T
+GL-------------RSLGLLCFRSEDADALLT-HVRTR--------------Q------
+PVLG----------RGAK--------VVPI-TLDQVYML------KA--------EGIAF
+RFLPDPL----------------QIKN--------ALELKS-------G----LTGFDGV
+PVFQSD------------------------------LLVV---KKQKK----------RY
+----------CPIYFQK-----EDIERELTKASKSSRGSALS------------------
+----------------------------------------KKIM----------------
+---------VGSLEDVLKKMEISE----RNSGWDDLIFIPPGKSLNQHIN
+[90] Setaria_italica_gnl|BL_ORD_ID|30215
+ALAPDEVAR-------------------------ALTGTPVFTVCNSNNEFVLVSDPA-T
+GL-------------RSLGLLCFRSEDANALLS-HVRTR--------------Q------
+PVLG----------RGAK--------VVPI-TLDQVYML------KA--------EGIAF
+RFLPDPL----------------QIKN--------ALELKS-------G----LTAFDGV
+PVFQSD------------------------------LLVV---KKQKK----------RY
+----------CPIYFQK-----EDIERELTKASKSSRGSALS------------------
+----------------------------------------KQIM----------------
+---------VGSLEDVLRKMEIND----RNSGWDDLIFIPPGKSLNQHIN
+[91] Physcomitrella_patens_gnl|BL_ORD_ID|25444
+AMSGEQVAK-------------------------RLDGVPVYTVSNSANEFVLISDL--N
+TS-------------KSLGIFCFREADAEALLS-QVRDR--------------E------
+PSLG----------RGAK--------VVAV-SLDKVYQL------ST--------EGIAF
+RFLPDPR----------------QVKN--------ALEARSRA-----G-EP-GKAFDGV
+PVFQSD------------------------------NLIL---RSNNR----------RF
+----------CPIFFSK-----EDLETALQRAFKQQQKINPALKV---------------
+---------------------------------------STDIQ----------------
+---------VGSFEDVLKRMEGNE----EDSGWGDIVFIPPGMDAYKHLS
+[92] Selaginella_moellendorffii_gnl|BL_ORD_ID|20616
+AMAPDQVSK-------------------------RLDGVPVYTVSNHDNEFVLISDS--N
+GH-------------KSLGLFCFRHEDAEALLA-QIRDR--------------E------
+PGLG----------RGAK--------IVAV-SLDKVYQL------KT--------EGIAF
+RFLPDPL----------------QVKH--------ALESRAKA-----G-DP-GKAFDGV
+PVFQSD------------------------------NLVL---RSKNR----------RF
+----------CPIFFSK-----EDLERALLGAFKQQQKINPALKV---------------
+---------------------------------------NTDIQ----------------
+---------VGSFEDVLQRLESSD----DGSGWGDVVFIPPGMDALSHFS
+[93] Physcomitrella_patens_gnl|BL_ORD_ID|32296
+AMTEEQVNK-------------------------CLDGVPVYTVSNSANEFVVVSEM--N
+SP-------------ESYGIICFRETDAEAFLS-QIRSR--------------D------
+PSAG----------SDVR--------VTAI-PLGKVLQL------SSK-------EGETF
+RFVPDPN----------------QIRN--------AYEVKARA-----G-EL-SKAFEGV
+PVFQSE------------------------------SLTL---NSINR----------RL
+----------LPIFFSK-----EDLETALQTAFEEQKRVDPALEF---------------
+---------------------------------------KPNIQ----------------
+---------VDSLEDILDMMEGSE----EETQRAEIVFIPAGMDVFKYLT
+[94] Citrus_clementina_gnl|BL_ORD_ID|22934
+AMSAEAIEE-------------------------RLAGVPVYALSNCNEEFVLVSGA--K
+TG-------------KSLGLMCFKKEDAEALLH-QMKSM--------------D------
+PAMRK---------EGSR--------VVPV-PLNK-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------
+[95] Manihot_esculenta_gnl|BL_ORD_ID|7457
+ALSTETIEE-------------------------RLAGVPVYALSNSNEEFVLVSGF--S
+TG-------------KSLGLLCFKKEDAEALLE-QMKSM--------------D------
+PGMRK---------SGSK--------VVPV-ALNKVQIL------T--------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------
+[96] Chlamydomonas_reinhardtii_gnl|BL_ORD_ID|2091
+AMAKDEVKA-------------------------RLAPVPVYTVANPKNEFVLVAGE--N
+N--------------TQLGFFFFRKEDAEALIE-KIREE--------------N------
+PRLA----------RDSK--------ILRV-PMDNVYEV------FTTPREQTGLQGIHF
+RFMPDMK----------------QVAH--------ALQLYKDA-----GVPT--RQFIGV
+PVFQAE------------------------------GLTV---TTRDM----------QY
+----------VPLFLCK-----EDLDIAVQSAYVQRNAAQIKLYKDKADKYQADYDQIAS
+QLEAAANGRERGGLESRLAKARVKLEAARDKVESVERAPLPKVE----------------
+---------VGSFEEVVMRMTASA--GNELAAWSQVMFVAPELLRDSAGA
+[97] Volvox_carteri_gnl|BL_ORD_ID|8007
+AMAKEEVKA-------------------------RLAPVPVYTVANPKNEFVLVAGE--N
+H--------------TQLGFFFFRKEDAEALIE-KIREE--------------N------
+PRLA----------RDSK--------ILRV-TMDNVYEV------FTTPREQTGLQGIHF
+RFMPDMK----------------QVAH--------ALELYKAA-----GVPT--RQFIGV
+PVFQAE------------------------------GLTV---TTRDM----------QY
+----------VPLFLCK-----EDLDIAIQSAYMQRNAAQIKLYKDKADKYQADYEQIAS
+QLESAS-GRERSGLESKLAKARAKLDAAREKVESVERAPLPKVE----------------
+---------VGSFEEVVMRMTASS--GNELAAWSQVMFVAPALLQEASKG
+[98] Synechococcus_elongatus_PCC_6301@
+ALSDQEVAA-------------------------RIGRVPVFVILTKEQQPLLFTSRDKD
+GKEV-----------NKTFPVFINQTQAQAALA-ELQKS--------------N------
+QPLG----------KDAR--------IGSL-LLPKALEL------ILDFLKKTNDPKVTY
+EIIPDPK----------------QRAK--------ALELYKADKNIKPEQLKQLESEAFV
+PIFYSE------------------------------SLSITMTNQQGQPVKDAKGNAIRR
+----------IPLFLEY-----EPLAAELEKLKKQDTNAKAG------------------
+---------------------------------------EYAIT----------------
+---------VTDLLTIINTLTAAQ----PGSNESLIELLPPVSSLPVLQE
+[99] Synechococcus_elongatus_PCC_7942@
+ALSDQEVAA-------------------------RIGRVPVFVILTKEQQPLLFTSRDKD
+GKEV-----------NKTFPVFINQTQAQAALA-ELQKS--------------N------
+QPLG----------KDAR--------IGSL-LLPKALEL------ILDFLKKTNDPKVTY
+EIIPDPK----------------QRAK--------ALELYKADKNIKPEQLKQLESEAFV
+PIFYSE------------------------------SLSITMTNQQGQPVKDAKGNAIRR
+----------IPLFLEY-----EPLAAELEKLKKQDTNAKAG------------------
+---------------------------------------EYAIT----------------
+---------VTDLLTIINTLTAAQ----PGSNESLIELLPPVSSLPVLQE
+[100] Cyanothece_PCC_7425@
+AFIDKQIIKPGTQPKLRKSADQGFALPTILGLGLVILMIAIYTFARSTSDRVAAIAQVQN
+---------------AQSVGV------AEAGIARTLAGMSTLNTSYLFTRNYDDPSILGP
+DQVQY---------SGDEAASNTWATATPV-IGGCSYTPPSLPVPVSGTTTEGTYQVLAY
+RFTPNVSNSSPGTGGVGSLLVQGNVNA--------GTNIQRQARLQVNIPITRTTRLNSF
+PGLYGRDSVSLGNNDVGNGTGGTTANSSGVANVICENCTVPSGQCTNG------------
+----------------------QPNQSAVESVVNKGPNSEIAGNIYLGSANLPAPPTPPT
+PDCPVS---------------------------GTFSAP-CKIT----------------
+---------IANITSTTTLPRPSDPDPTNNS-------IPYQYVITGNIS
+[101] Synechococcus_sp_WH5701@
+RFLPDQPLS---------------------------------------------------
+---------------------CVRMPAGQTVLL--------------------D------
+PALRP---------GGSS--------IEVLEGIARVYCP------CEET------EGMTL
+AFLQPGD----------------QLRTDRLCSEGVCVEALTPLCFRSETEAGNDTGFDPV
+NEWTLQ------------------------------LLRIRHLGSAEQRLHALFGLLVRR
+LGRRCGPWCDLPFRLTH-----ERIGELIGT-----------------------------
+----------------------------------------TRVT----------------
+---------TTRLISRIRQAQLLE----APAGEPGLRLAPSLVESAPLAA
+;
+END;
+BEGIN NOTES;
+  TEXT TAXON=1 TEXT='641253409 AM1_4328 tic22-like family protein, putative [Acaryochlor	
+';
+  TEXT TAXON=2 TEXT='650384942 NIES39_D00560 periplasmic protein, function unknown [Arthr	
+';
+  TEXT TAXON=3 TEXT='646131540 AplaP_010100019463 Tic22-like protein [Arthrospira platensi	
+';
+  TEXT TAXON=4 TEXT='648389407 APCC8_010100021640 Tic22-like protein [Arthrospira sp. PCC 8005]	
+';
+  TEXT TAXON=5 TEXT='640016084 L8106_12945 hypothetical protein [Lyngbya sp. CCY 8106]	
+';
+  TEXT TAXON=6 TEXT='648859041 OSCI_3460067 Tic22-like [Oscillatoria sp. PCC 6506]	
+';
+  TEXT TAXON=7 TEXT='gi|113475327|ref|YP_721388.1| unnamed protein product [Trichodesmi	
+';
+  TEXT TAXON=8 TEXT='647570224 MC7420_2577 Tic22-like family [Microcoleus chthonopl	
+';
+  TEXT TAXON=9 TEXT='gi|218438435|ref|YP_002376764.1| Tic22 family protein [Cyanothece sp. PCC 7424	
+';
+  TEXT TAXON=10 TEXT='gi|307152686|ref|YP_003888070.1| Tic22 family protein [Cyanothece sp. PCC 7822	
+';
+  TEXT TAXON=11 TEXT='641537843 MAE_38380 Tic22-like protein [Microcystis aeruginosa NIE	
+';
+  TEXT TAXON=12 TEXT='646530648 UCYN_08680 Tic22-like family [Cyanobacterium sp. UCYN-A]	
+';
+  TEXT TAXON=13 TEXT='641678169 cce_3672 putative Tic22-like protein [Cyanothece sp. BH68,	
+';
+  TEXT TAXON=14 TEXT='640625841 CY0110_24921 hypothetical protein [Cyanothece sp. CCY 0110]	
+';
+  TEXT TAXON=15 TEXT='637011978 slr0924 hypothetical protein [Synechocystis sp. PCC 6803]	
+';
+  TEXT TAXON=16 TEXT='gi|218247698|ref|YP_002373069.1| Tic22 family protein [Cyanothece sp. PCC 8801	
+';
+  TEXT TAXON=17 TEXT='gi|257060965|ref|YP_003138853.1| unnamed protein product [Cyanothece sp. PCC 8	
+';
+  TEXT TAXON=18 TEXT='641678170 cce_3673 putative Tic22-like protein [Cyanothece sp. BH68,	
+';
+  TEXT TAXON=19 TEXT='640625842 CY0110_24926 hypothetical protein [Cyanothece sp. CCY 0110]	
+';
+  TEXT TAXON=20 TEXT='Npun_R3857 Tic22 family protein	
+';
+  TEXT TAXON=21 TEXT='gi|186683988|ref|YP_001867184.1| Tic22 family protein [Nostoc punctif	
+';
+  TEXT TAXON=22 TEXT='gi|75907705|ref|YP_322001.1| unnamed protein product [Anabaena vari	
+';
+  TEXT TAXON=23 TEXT='637230470 alr0114 hypothetical protein [Nostoc sp. PCC 7120]	
+';
+  TEXT TAXON=24 TEXT='640024174 N9414_08450 hypothetical protein [Nodularia spumigena CCY941	
+';
+  TEXT TAXON=25 TEXT='637875369 CYB_0967 chloroplast envelope protein translocase (CEPT o	
+';
+  TEXT TAXON=26 TEXT='637874307 CYA_2795 chloroplast envelope protein translocase (CEPT or Tic	
+';
+  TEXT TAXON=27 TEXT='637461026 glr3613 hypothetical protein [Gloeobacter violaceus PCC 7	
+';
+  TEXT TAXON=28 TEXT='641611608 SYNPCC7002_A1598 hypothetical protein [Synechococcus sp. PCC 7	
+';
+  TEXT TAXON=29 TEXT='647578192 S7335_3895 hypothetical protein [Synechococcus sp. PCC 7335]	
+';
+  TEXT TAXON=30 TEXT='_058_00151.1|PACid:22051029
+';
+  TEXT TAXON=31 TEXT='_GSVIVT01031575001|PACid:17837728
+';
+  TEXT TAXON=32 TEXT='_479887|PACid:16039793
+';
+  TEXT TAXON=34 TEXT='Arabidopsis_thaliana AT3G23710.1|PACid:19661962
+';
+  TEXT TAXON=35 TEXT='_v10016492m|PACid:20900841
+';
+  TEXT TAXON=36 TEXT='_028338|PACid:22702791
+';
+  TEXT TAXON=37 TEXT='_Thhalv10002616m|PACid:20196604
+';
+  TEXT TAXON=38 TEXT='_0.9_032044m|PACid:19274132
+';
+  TEXT TAXON=39 TEXT='_1.1g028633m|PACid:18119754
+';
+  TEXT TAXON=40 TEXT='_POPTR_0002s23710.1|PACid:18246359
+';
+  TEXT TAXON=41 TEXT='_4.1_026992m|PACid:17967269
+';
+  TEXT TAXON=42 TEXT='_30065.m001170|PACid:16816470
+';
+  TEXT TAXON=43 TEXT='_0000534726|PACid:22657315
+';
+  TEXT TAXON=44 TEXT='_ppa023049m|PACid:17642570
+';
+  TEXT TAXON=45 TEXT='_365650.1|PACid:16981447
+';
+  TEXT TAXON=46 TEXT='_evm.model.supercontig_157.20|PACid:16409806
+';
+  TEXT TAXON=47 TEXT='_L00633.1|PACid:23605821
+';
+  TEXT TAXON=48 TEXT='_mgv1a011459m|PACid:17694795
+';
+  TEXT TAXON=49 TEXT='_05g28300.1|PACid:16259917
+';
+  TEXT TAXON=50 TEXT='_091000598m|PACid:23553221
+';
+  TEXT TAXON=51 TEXT='_10022378|PACid:23171689
+';
+  TEXT TAXON=52 TEXT='_4g27410.1|PACid:21813339
+';
+  TEXT TAXON=53 TEXT='_LOC_Os07g19030.1|PACid:21900796
+';
+  TEXT TAXON=54 TEXT='_Pavirv00047800m|PACid:23760801
+';
+  TEXT TAXON=55 TEXT='_Sb02g009350.1|PACid:1956455
+';
+  TEXT TAXON=56 TEXT='_GRMZM2G130651_T01|PACid:20834593
+';
+  TEXT TAXON=57 TEXT='_Pavirv00013793m|PACid:23792711
+';
+  TEXT TAXON=58 TEXT='_015_00080.1|PACid:22042170
+';
+  TEXT TAXON=59 TEXT='_0.9_018515m|PACid:19274488
+';
+  TEXT TAXON=60 TEXT='_1.1g024182m|PACid:18092480
+';
+  TEXT TAXON=61 TEXT='_4.1_013713m|PACid:17977326
+';
+  TEXT TAXON=62 TEXT='_30170.m013883|PACid:16821727
+';
+  TEXT TAXON=63 TEXT='_POPTR_0002s12830.1|PACid:18246526
+';
+  TEXT TAXON=64 TEXT='_POPTR_0014s02990.1|PACid:18222830
+';
+  TEXT TAXON=65 TEXT='_GSVIVT01009503001|PACid:17821902
+';
+  TEXT TAXON=66 TEXT='_0000194844|PACid:22667820
+';
+  TEXT TAXON=67 TEXT='_ppa009744m|PACid:17652241
+';
+  TEXT TAXON=68 TEXT='_mgv1a011324m|PACid:17696802
+';
+  TEXT TAXON=69 TEXT='_F02353.1|PACid:23583161
+';
+  TEXT TAXON=70 TEXT='_04g04070.1|PACid:16254795
+';
+  TEXT TAXON=71 TEXT='_091019731m|PACid:23536034
+';
+  TEXT TAXON=72 TEXT='_Medtr3g147870.1|PACid:17452775
+';
+  TEXT TAXON=73 TEXT='_evm.model.supercontig_49.11|PACid:16421020
+';
+  TEXT TAXON=74 TEXT='_1g45996.1|PACid:21818064
+';
+  TEXT TAXON=75 TEXT='_Pavirv00015657m|PACid:23765065
+';
+  TEXT TAXON=76 TEXT='_Sb10g007160.1|PACid:1983025
+';
+  TEXT TAXON=77 TEXT='_GRMZM5G887716_T01|PACid:20836749
+';
+  TEXT TAXON=78 TEXT='_LOC_Os06g11020.1|PACid:21931832
+';
+  TEXT TAXON=79 TEXT='_913087|PACid:16050510
+';
+  TEXT TAXON=81 TEXT='_v10005493m|PACid:20895201
+';
+  TEXT TAXON=82 TEXT='_Thhalv10025972m|PACid:20194177
+';
+  TEXT TAXON=83 TEXT='_011434|PACid:22703805
+';
+  TEXT TAXON=84 TEXT='_352120.1|PACid:16979960
+';
+  TEXT TAXON=85 TEXT='_10006487|PACid:23142507
+';
+  TEXT TAXON=86 TEXT='_10009759|PACid:23178320
+';
+  TEXT TAXON=87 TEXT='_04g04070.2|PACid:16254796
+';
+  TEXT TAXON=88 TEXT='_123730.1|PACid:16961632
+';
+  TEXT TAXON=89 TEXT='_Pavirv00010181m|PACid:23808112
+';
+  TEXT TAXON=90 TEXT='_Si007932m|PACid:19703754
+';
+  TEXT TAXON=91 TEXT='_Pp1s282_30V6.1|PACid:18061980
+';
+  TEXT TAXON=92 TEXT='_26102|PACid:15421894
+';
+  TEXT TAXON=93 TEXT='_Pp1s81_171V6.1|PACid:18068833
+';
+  TEXT TAXON=94 TEXT='_0.9_030499m|PACid:19274080
+';
+  TEXT TAXON=95 TEXT='_4.1_016903m|PACid:17967230
+';
+  TEXT TAXON=96 TEXT='_14.g625750.t1.1|PACid:19860381
+';
+  TEXT TAXON=97 TEXT='_Vocar20001833m|PACid:23131891
+';
+  TEXT TAXON=98 TEXT='637617923 syc2232_c hypothetical protein [Synechococcus elongatus	
+';
+  TEXT TAXON=99 TEXT='gi|81300671|ref|YP_400879.1| unnamed protein product [Synechococc	
+';
+  TEXT TAXON=100 TEXT='gi|220910506|ref|YP_002485817.1| unnamed protein product [Cyanothece sp. PCC 7	
+';
+  TEXT TAXON=101 TEXT='638959889 WH5701_12149 Bacterial regulatory proteins, Crp family protein [	
+';
+END;
