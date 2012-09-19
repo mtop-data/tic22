@@ -1,0 +1,14 @@
+>Arabidopsis_thaliana_AT3G23710.1
+MN------------------------SNIFPPSKQQNELNNIQ-----------------
+--QSFSNLQS------------------------------------QCSNLLLNVSQTLN
+PLFNANTNNNKPNIFSALNSFRD-QAKQALDSRISRFN-----SGKAPVWARISDD---G
+GGARAQVT-VPIRGSGK-----GLSADAIEERLAGVPVYALSNSNEE----FVLVSGT-S
+SG-------------KSLGLLFCKEEDAETLLKE-----MKSMDPRMRKEGSKVVALALS
+KVFQL--------KV-NG-------------------------------------VAFRL
+IPESTQVKNA--LKERKTAGID--DDDFHGVPVFQ-----------------------SK
+SLILRSEN----MSYRPVFFRKEDLEKSLIRASSQQNRLNPAL-----------------
+-------------------------------------K-PGDIQVAVFEDIVKGMRE---
+------S-TT--SNWDDIV--F----------------------------IPPGFEVSTE
+QTQE--------------------------------------------------------
+--------------
+
