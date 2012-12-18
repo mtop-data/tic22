@@ -1,0 +1,174 @@
+#NEXUS
+[saved by seaview on Tue Dec 11 14:54:26 2012]
+BEGIN DATA;
+  DIMENSIONS NTAX=20 NCHAR=403;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] Brachypodium_distachyon_gnl_BL_ORD_ID_2714_2g07450.1_PACid
+--------------VFTMLDPSGNGLM---AVTSRFDLPHFIAHRTPTWFKRILSPLK-K
+SE---------------------SSPVFRFFMDLNDSVSYVKRLNV--P----------S
+GMVGACRLDVAYEHFK----------------EKPHMFQFVPNEKQVKAANKLLKS----
+-----IPQK-----SRRKKLAGVPVFSAQ--------NLNIAVATDDGIR----------
+---WYSPYFFDKNLLDN------------IL-----------------------------
+------------------------------------------------------------
+-----------------------------------------EA
+[2] Oryza_sativa_gnl_BL_ORD_ID_20689_LOC_Os01g12550.1_PACid_21
+--------------VFTMLDPSGNGLM---AVTTRFELPQFLASRTPMWFKRILSPLK-K
+SE---------------------NGPVFRFFMDLNDAVSYVKRLNV--P----------S
+GMVGACRLDVAYEHFK----------------EKPQMFQFVPSEKQVKAANKLLKS----
+-----LPQR-----RRRKKLDGVPVFSAQ--------NLNIAVATNDGIR----------
+---WYTPYFFDKNLLDN------------IL-----------------------------
+------------------------------------------------------------
+-----------------------------------------EA
+[3] Brassica_rapa_gnl_BL_ORD_ID_11888_010109_PACid_22695398
+--------------VFSMCDLTGTGLM---AVSTHFDIP-FISKRTPEWLKKMFSTITKS
+ER---------------------KGPVFRFFMDLGDAVSYVKKLNI--P----------S
+GVVGACRLDLAYEHFK----------------EKPHLFQFVPNERQVKAANKLLKS----
+-----MPPS-----EKKQRVDGVPVFAAQ--------NLDIAVATSDGIK----------
+---WYTPYFFDKAVLDN------------IL-----------------------------
+------------------------------------------------------------
+-----------------------------------------EE
+[4] Brassica_rapa_gnl_BL_ORD_ID_19281__028338_PACid_22702791
+LSADDMEERLAGVPVYALSNSNEEFVL---VSGT-----------------------ATG
+------------------------KSLGLLFCKAEDAEALLNQMKAMDP---RMR--KEG
+SKVVALALSKVFQLKV-----------------NGVAFRLIPESTQVQNALKERKT----
+-----AGFT-------DDDFNGVPVFQSK--------SLILRS--D--NK----------
+---SYRPVFFRKEDLEK------------SLTRASRQQNRLNP-----------------
+-------------------------------------ALKPGDIQVAVFEEIVKGMKENA
+-T---------SNWDDIVFIPPGFEVSTE----------ETKD
+[5] Brachypodium_distachyon_gnl_BL_ORD_ID_10569__4g27410.1_PACi
+LPVAEIEDRLSGVPVYALANSSQEFVL---VSKT-----------------------HGG
+GAE---G---E------SSGARPPPALGVLCFRREDADALLAQMD---G---TM---RAG
+STVVPVALNKVIQLKS-----------------DGVAFRFLPDFTQVANAMKLMQD----
+-----EGQL------VNEGFLGVPVFQSR--------SLVLMS--D--SK----------
+---RCRPVFFRKEDLDN------------SLHRASRDQQKPNP-----------------
+--------------------------------------VRIGDTQVSSLEDMITSMKDSS
+-S---------STWDDVVFIPPGFDLA------------TGSK
+[6] Oryza_sativa_gnl_BL_ORD_ID_18324__LOC_Os07g19030.1_PACid_21
+LPVAEIEERLAGVPVYALANSSQEFVL---VSSA-----------------------RGG
+GGG---G--GG------ARAAVPPPALGLLCFRREDADALLAQMD---G---DM---AAG
+STVVPVALNKVIQLKS-----------------DGVAFRFVPDSSQVANAMKLMEN----
+-----EGQY------VNDGFPGVPVFQSR--------SLVLMS--D--NK----------
+---RYRPVFFRKEDLDN------------SLHRASRDQQKPNP-----------------
+-------------------------------------AVKMGDIQVSSLENIIKSMKDSS
+-S---------SKWDDAVFIPPGFDLATSSK-----Q-SNHDN
+[7] Arabidopsis_thaliana_AT4G33350.1
+LSPSLVAKALAGTSVFTVSNTNNEFVL---ISDP-----------------------T-G
+G-----------------------KSIGLLCFRQEDAEAFLAQARLRRR---EL---KTN
+AKVVPITLDQVYLLKV-----------------EGISFRFLPDPIQIKNALELKSS----
+-----GN---------KNGFDGVPVFQSE--------LLVVRK--K--NR----------
+---RYCPVYFSKEDIER------------ELSKYTRASRG--------------------
+----------------------------------------DQQIMVGSLEDVLRKMEMSE
+KN---------SGWEDVIFIPPGRSYAQHMQ-----DL--IKE
+[8] Brassica_rapa_gnl_BL_ORD_ID_20295__011434_PACid_22703805
+LNPSHVAKALAGTSVFTVSNTNNEFVL---ISDP-----------------------T-G
+D-----------------------KSIGLLCFRQEDAEAFLAQARLRRR---EL---KTN
+AKVVPINLDQVYLLKV-----------------EGISFRFLPDPIQIKNALELKSS----
+-----SS---------KNGFDGVPVFQSE--------LLVVRK--K--NK----------
+---RYCPIYFSKEDIER------------ELSKYTRAD----------------------
+-----------------------------------------QQIMVGSLEDVLRKMERSE
+KN---------SGWEDMIFIPPGRSYAQHMQ-----EVVKEIK
+[9] Brachypodium_distachyon_gnl_BL_ORD_ID_15294__1g45996.1_PACi
+LAPDEVARALTGTPVFTVCNSSNEFVL---VSDP-----------------------ATG
+L-----------------------RSLGLLCFRSEDADALLSHVRTRQP---VL---GKG
+AKVVPITLDQVYMLKA-----------------EGIAFRFLPDPLQIKNALELKSG----
+----------------LTGFDGVPVFQSD--------LLVVKK--Q--KK----------
+---RYCPIYFQKEDIER------------ELKKASKGSKGS-------------------
+-------------------------------------A-LLKQIMVGSLEDVLKKMEIND
+RN---------SGWDDMIFIPPGKSLNQHINE----DCYRKRE
+[10] Oryza_sativa_gnl_BL_ORD_ID_49360__LOC_Os06g11020.1_PACid_21
+LAPDEVARALTGTPVFTVCNSSNEFVL---VSDP-----------------------ATG
+L-----------------------RSLGLLCFRSEDADALLTHVRMRQP---VV---GRG
+AKVVPITLDQVYMLKA-----------------EGIAFRFLPDPLQIKNALELKSG----
+----------------LTAFDGVPVFQSD--------LLVVKK--Q--KK----------
+---RYCPIYFQKL-----------------------------------------------
+------------------------------------------------------------
+----------------------------------------RRT
+[11] at5g62650
+--------------VFSMCDLTGTGLM---AVSTHFDIP-FISKRTPEWLKKMFSTITKS
+ER---------------------NGPVFRFFMDLGDAVSYVKKLNI--P----------S
+GVVGACRLDLAYEHFK----------------EKPHLFQFVPNERQVKAANKLLKS----
+-----MPQN-----GKTQKVEGVPVFGAQ--------NLDIAVATADGIK----------
+---WYTPYFFDKAVLDN------------IL-----------------------------
+------------------------------------------------------------
+-----------------------------------------EE
+[12] C_merolae
+YSRKTLSEKLAQVPVFAVTNESGQPFL---AAME-----------------------R--
+-----------------------GLQVGLIFFDPDDAIKMLEDLKRSSG---KE---AED
+ARIFIMGLDRAFEMVKSKPQP--SGLRGPRGDELKMVFRFYPNQQQLEYARTVAKK----
+-----TK---------QPTVRGVPCFVAK--------GLTLRK--G--KE----------
+---FVIPIFLDKRDLDE------------AWNRLRQELAELP------------------
+---------------------------------------KQPEIEVGDLIEVILRLEEAA
+KNPKSLNETELQDLRRVAFFPSSKSVEFM---------KRESA
+[13] Porphyra_purpurea
+ISTKFIMEQLSTSPVFVVKNGLNEIIL---GHPL-----------------------SRI
+RRTAFNQIASSLSNLFHQPIATSPISNGLFFFHPDDAIEFKNFVQSKAP---EAC-KDMD
+IKIQPVGLHVAYKMNRN--------------FSSDIQFRFVPDFKEVGDLIFRHQQAKNL
+HFHENQYY-------GKNFFQGQPIYMIQ--------PIIIKH--R--NG----------
+---RISIIKFTGANDDREVVFTNLEAANKSWANFIKRTPYLK------------------
+-------------------------------------RLKKPNLLVYNLESFLKDKEVLH
+-K---------ADLTKFIVVTNKSAYIT----------TKESV
+[14] atTic22
+LSADAIEERLAGVPVYALSNSNEEFVL---VSGT-----------------------SSG
+------------------------KSLGLLFCKEEDAETLLKEMKSMDP---RMR--KEG
+SKVVALALSKVFQLKV-----------------NGVAFRLIPESTQVKNALKERKT----
+-----AGID-------DDDFHGVPVFQSK--------SLILRS--E--NM----------
+---SYRPVFFRKEDLEK------------SLIRASSQQNRLNP-----------------
+-------------------------------------ALKPGDIQVAVFEDIVKGMREST
+-T---------SNWDDIVFIPPGFEVS------------TEQT
+[15] Cyanophora_paradoxa_gnl_BL_ORD_ID_26154
+IDRATLTKQLSEVPVFTIVDASNKPIV---ASNW-----------------------GEE
+K-----------------------GRFVVFYFSRKDAMAALPKARAGQ-----P---GKN
+LKVMTVGLDKAYKLTKDAEAAAKSGAAVDAGSDAGIQARYVPVAKQIKNAVDVLKT----
+-----QGRK-------VTHFNGTPIYQAE--------GLTMRQ--GNDTR----------
+---QFIPLFFTKEDLEA------------AWAEMRRGNPAMSPQP-----RIE-------
+-----------------------AR----------PPPALSFLLSVGAFEELMKRMEDTD
+S----------PEWQRVVFFAPKESLDF----------VGQPR
+[16] Anabaena_sp_PCC_7120_gnl_BL_ORD_ID_113_alr0114_hypothetical
+LSEQQIKEKLDSVPIYLVTNEKGLPLSRPLPNAP-----------------------NGQ
+KA---------------------GGSITGAYMSRQEAQAFINELRNAKNKDPKMQEIVKS
+LQVTAVPLGVIYQQLQQT-----------KKDPNRLLFAFKPVDQEIKGAMDLLRQ----
+-----SGQ-------QVNQFKSVPMFAVRFAPDQGYVPIKVGT--G--NE----------
+---QVVPLFLSKQDAQG------------LLGQVKPKHP---------------------
+----------------------------------------KADIQVLDIDGVLQTLQDKN
+----------DTWLNQVVLVPSPESREYIRT-------LPKPP
+[17] Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_2091
+IDRATLTKQLSEVPVFTIVDASNKPIV---ASNW-----------------------GEE
+K-----------------------GRFVVFYFSRKDAMAALPKARAGQ-----P---GKN
+LKVMTVGLDKAYKLTKDAEAAAKSGAAVDAGSDAGIQARYVPVAKQIKNAVDVLKT----
+-----QGRK-------VTHFNGTPIYQAE--------GLTMRQ--GNDTR----------
+---QFIPLFFTKEDLEA------------AWAEMRRGNPAMSPQP-----RIE-------
+-----------------------AR----------PPPALSFLLSVGAFEELMKRMEDTD
+S----------PEWQRVVFFAPKESLDF----------VGQPR
+[18] Volvox_carteri_gnl_BL_ORD_ID_8007__Vocar20001833m
+MAKEEVKARLAPVPVYTVANPKNEFVL---VAG-------------------------EN
+H-----------------------TQLGFFFFRKEDAEALIEKIREENP---RL---ARD
+SKILRVTMDNVYEVFTTPRE---------QTGLQGIHFRFMPDMKQVAHALELYKA----
+-----AGVP-------TRQFIGVPVFQAE--------GLTVTT--R--DM----------
+---QYVPLFLCKEDLDI------------AIQSAYMQRNAAQIKLYKDKADKYQADYEQI
+ASQLESASGRERSGLESKLAKARAKLDAAREKVESVERAPLPKVEVGSFEEVVMRMTASS
+GN-------ELAAWSQVMFVA---------------------P
+[19] Gloeobacter_violaceus_PCC_7421__637461026_glr3613
+LTQAQIIEKLKPVVLFTVATADGKPLL---SLPP-----------------------DG-
+SK---------------------GPLVAGVYFSPQDAEAFVAAFKKKDA---AR---GGQ
+LRVQPVSLGNLYRLRLES-----------RGTEEEVTLAFFANRTEVEWALSLLQA----
+-----AGR-------KPEDLQGAPLFAATVNAGK-KQYLTLQQ--N--NR----------
+---TVVPVYFTKQEMTA------------FIDRYRRQQANAN------------------
+---------------------------------------VPVTVEVLDLEGILEALQEPT
+----------DSQTKKVMLVTPKAALDYARTQSGSPIPTVQPP
+[20] Synechococcus_elongatus_PCC_7942__gi_81300671_ref_YP_400879
+LSDQEVAARIGRVPVFVILTKEQQPLL--FTSRD-----------------------KDG
+KE---------------------VNKTFPVFINQTQAQAALAELQKSNQ---PL---GKD
+ARIGSLLLPKALELILDFLK---------KTNDPKVTYEIIPDPKQRAKALELYKA----
+-----DKNIKPEQLKQLESEAFVPIFYSE--------SLSITM--T--NQQGQPVKDAKG
+NAIRRIPLFLEYEPLAA------------ELEKLKKQDTNAK------------------
+--------------------------------------AGEYAITVTDLLTIINTLTAAQ
+P---------GSNESLIELLPPVSSLPVL---------QELVK
+;
+END;
+BEGIN NOTES;
+  TEXT TAXON=16 TEXT='_P_ 4EV1A
+';
+END;

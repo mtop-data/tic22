@@ -1,0 +1,56 @@
+>AT_gi|18424615|ref|NP_568958.1| Tic22-like family protein [Arabidopsis thaliana]
+MGSPDKQHRRHVAAEFLHSAVTSISSSIIPLFPPKTAPSRVCLPLRFS------------
+------------------------------------VSDDVSSPFESTVKST--------
+------------------------------------------------------------
+------------------------------------------------------------
+--------SSASSSGLNST-----------VRISSLSSDGKRGGPAFVGQVFSMCDLTGT
+GLMAVSTHFDIPFISKRTPEWLKKMFSTITKSER--NGPVFRFFMDLGDAVSYVKKLNI-
+-----PSGVVGACRLDLAYEHFKEKPH-----LFQFVPNERQVKAANKLLKSMPQNGKTQ
+KVEGVPVFGAQNL--DIAVATADGIKWYTPYFFDKAVLDNILEESVDQHFHTLIQTR-HV
+QRRRDVVDDSLASEVMEEMGDSMLEPP-EVQEAMEEIG-TSGIPLSVVAKAAEIQLLYAV
+DRVLLGSRWFRKATGIQPKLPYLVDSFERRSAFSIQRASGSATRCLGDSVEADTSASLLR
+VEDDSPSEAEKRQQHLWFPFGDWISHSVSRKEHTHHKGSSDQRDMESREREMLRSPFLPK
+ITMVGISTGEAAQMSKANLKKTMEDLTEDLEQSDEGNDHGSKRYDSLKIEERDPLFVANV
+GDYYSGLAKAGSARLSRRGDDQ
+>gi|113475327|ref|YP_721388.1| Tic22-like [Trichodesmium erythraeum IMS101]
+M----K------------SLI------------------------RLS------------
+----------------------------------------------------AVLGVM--
+------------------------------------------------------------
+------------------------------------------------------------
+--------VSSLIGPSLKD----------MSA--LALPEKEVLQKLTPVPVFTITDQNGS
+PLVR-----------------------SIRREGNEVNSSVAGVFISKSDADAFVNKLKGE
+NPDLAATVKVVPVSLGEVYEKSQSIQENGQRLEFAYVPIRRQVESAKALLEKNGQD--FN
+NFSGVPLFMAKGGPDDGYLTIQRGEKQVIPMFFNKEDLQGMLDRAETQQPEVFSSVEIEV
+VNLEGVIN-ALKNDDDPFLEKIIFIPPRESLEFVQQLR-ES-------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------DNK
+>gi|119486658|ref|ZP_01620708.1| hypothetical protein L8106_12945 [Lyngbya sp. PCC 8106]
+M----K------------SLA------------------------RLS------------
+----------------------------------------------------LVLGIIG-
+------------------------------------------------------------
+------------------------------------------------------------
+--------SHLLINPGLPSRLPSFLPIGIQPA--FALTPNEVLEKLGAVPVFTITDSEGS
+PLVG-----------------------TAQSQGQ--SASVVEVYISRQDAQAFINELKTQ
+NPELASSVQVTAVPLGKIYEIGQQNQSDPERLMFAFVPTQQQLNSAKAVLEANGQD--VN
+QFRGVPLFLARAGADDRVITVQQGDKQAIPFFFTKEDLQGMLEQFKTQQPDLISSVKIEV
+VPLEVLLE-AFRTDSDQFLDLVILIPPRETVEFIQQQR-QS-------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------SGQ
+>gi|86607397|ref|YP_476160.1| chloroplast envelope protein translocase (CEPT or Tic-Toc) family protein [Synechococcus sp. JA-3-3Ab]
+M----KMMRGNAVPL-LGSLC------------------------RRR------------
+------------------------------------AQAGGRAAFVAAVRSTLLLGLAG-
+------------------------------------------------------------
+------------------------------------------------------------
+--VIWGGVPTFAQGGPLST-----------QAVAAPMSRQEVAERLNLVPVFAIVSQNGT
+PVVA-----------------------NVEREGR--TIQVASFWLDQNQAQQALDQVKAK
+NPEVGQQAQVVPIPLGYAYEKSEEERAKNSNLYFEVVPRAADVEAAKQVLKETGQE-VPP
+EVIGVPLFYGRSG--EGLLTIEQDGQEVVPFFFDRNDLKGALDRAAAQNPEVVGKTQIEV
+TSLAIVVERMLAPDAQEDVQKIAFIPPRASLEYVQSLI-RSATP----------------
+----------------QPNPP---------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------ATPQPQRR
