@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/Phytozome/all/Sitalica_164_peptide</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|18424615|ref|NP_568958.1| Tic22-like family protein [Arabidopsis thaliana]</BlastOutput_query-def>
+  <BlastOutput_query-len>529</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>gi|18424615|ref|NP_568958.1| Tic22-like family protein [Arabidopsis thaliana]</Iteration_query-def>
+      <Iteration_query-len>529</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1638</Hit_id>
+          <Hit_def>@Setaria_italica@_Si001606m|PACid:19674983 </Hit_def>
+          <Hit_accession>1638</Hit_accession>
+          <Hit_len>419</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>506.138</Hsp_bit-score>
+              <Hsp_score>1302</Hsp_score>
+              <Hsp_evalue>1.19836e-175</Hsp_evalue>
+              <Hsp_query-from>99</Hsp_query-from>
+              <Hsp_query-to>510</Hsp_query-to>
+              <Hsp_hit-from>1</Hsp_hit-from>
+              <Hsp_hit-to>410</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>254</Hsp_identity>
+              <Hsp_positive>313</Hsp_positive>
+              <Hsp_gaps>24</Hsp_gaps>
+              <Hsp_align-len>423</Hsp_align-len>
+              <Hsp_qseq>MCDLTGTGLMAVSTHFDIP-FISKRTPEWLKKMFSTITKSERNGPVFRFFMDLGDAVSYVKKLNIPSGVVGACRLDLAYEHFKEKPHLFQFVPNERQVKAANKLLKSMPQNGKTQKVEGVPVFGAQNLDIAVATADGIKWYTPYFFDKAVLDNILEESVDQHFHTLIQTRHVQRRRDVVDDSLASEVMEEMGDSMLEPPEVQEAMEEIGTSGIPLSVVAKAAEIQLLYAVDRVLLGSRWFRKATGIQPKLPYLVDSFERRSAFSIQR-ASGSATRCLGDSV---EADTSASLLRVEDDSPSEAEKRQQHLWFPFGD-----WISHSVSRKEH-THHKGSSDQRDMESREREMLRSPFLPKITMVGISTGEAAQMSKANLKKTMEDLTEDLEQSDEGNDHGSKRYDSLKIEERDPLFVANVGDY</Hsp_qseq>
+              <Hsp_hseq>MLDPSGNGLMAVTTRFELPRFLTNRTPTWFKKILSPLKKSE-NGPVFRFFMDLNDAVSYVKRLNVPSGMVGACRLDVAYEHFKEKPHMFQFVPNEKQVKAANKLLKSLPQRGRRKRLGGVPVFSAQNLNIAVATNDGIRWYTPYFFDKNLLDNILEASMDQHFHSIMQNRHKQRRRDIVDDSLTSEIIEESADSLLEPPEVQELMNEIGPAGIPLNVVTKAAEIQLLDVVDKVLLGNKWLRKAAGIQPRFPYVVDSFEERTAVSIANIATTSSFTASNDSCCQNDQQSQSSDPSIENSYRSHSNQDHNQFHFPFSNLLPNIWPGHDRKFKEQESDSKFSRYDADMKT---DLQSNPLLPKITMVGISMSEGGQMSKANLKKTMEDLTKELEQTSEKNTFG---------DEKDPLFVANVGDY</Hsp_hseq>
+              <Hsp_midline>M D +G GLMAV+T F++P F++ RTP W KK+ S + KSE NGPVFRFFMDL DAVSYVK+LN+PSG+VGACRLD+AYEHFKEKPH+FQFVPNE+QVKAANKLLKS+PQ G+ +++ GVPVF AQNL+IAVAT DGI+WYTPYFFDK +LDNILE S+DQHFH+++Q RH QRRRD+VDDSL SE++EE  DS+LEPPEVQE M EIG +GIPL+VV KAAEIQLL  VD+VLLG++W RKA GIQP+ PY+VDSFE R+A SI   A+ S+     DS    +  + +S   +E+   S + +      FPF +     W  H    KE  +  K S    DM++   ++  +P LPKITMVGIS  E  QMSKANLKKTMEDLT++LEQ+ E N  G         +E+DPLFVANVGDY</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|31848</Hit_id>
+          <Hit_def>@Setaria_italica@_Si008831m|PACid:19705401 </Hit_def>
+          <Hit_accession>31848</Hit_accession>
+          <Hit_len>450</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>31.9574</Hsp_bit-score>
+              <Hsp_score>71</Hsp_score>
+              <Hsp_evalue>1.27614</Hsp_evalue>
+              <Hsp_query-from>399</Hsp_query-from>
+              <Hsp_query-to>485</Hsp_query-to>
+              <Hsp_hit-from>353</Hsp_hit-from>
+              <Hsp_hit-to>431</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>26</Hsp_identity>
+              <Hsp_positive>38</Hsp_positive>
+              <Hsp_gaps>8</Hsp_gaps>
+              <Hsp_align-len>87</Hsp_align-len>
+              <Hsp_qseq>RQQHLWFPFGDWISHSVSRKEHTHHKGSSDQRDMESREREMLRSPFLPKITMVGISTGEAAQMSKANLKKTMEDLTEDLEQSDEGND</Hsp_qseq>
+              <Hsp_hseq>RQGRAGTDLAGWV-HSVVREEWTGEVFDKDMRGTRSGEGEML------KLLKVGLGCCEPDVSRRWGLEEALARI-EELRERDSGDD</Hsp_hseq>
+              <Hsp_midline>RQ         W+ HSV R+E T      D R   S E EML      K+  VG+   E     +  L++ +  + E+L + D G+D</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|8417</Hit_id>
+          <Hit_def>@Setaria_italica@_Si036123m|PACid:19681810 </Hit_def>
+          <Hit_accession>8417</Hit_accession>
+          <Hit_len>385</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>31.5722</Hsp_bit-score>
+              <Hsp_score>70</Hsp_score>
+              <Hsp_evalue>1.64285</Hsp_evalue>
+              <Hsp_query-from>446</Hsp_query-from>
+              <Hsp_query-to>520</Hsp_query-to>
+              <Hsp_hit-from>155</Hsp_hit-from>
+              <Hsp_hit-to>249</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>27</Hsp_identity>
+              <Hsp_positive>45</Hsp_positive>
+              <Hsp_gaps>26</Hsp_gaps>
+              <Hsp_align-len>98</Hsp_align-len>
+              <Hsp_qseq>PKITMVGISTG----EAAQMSKANLKKTMEDLTEDLEQSDEGNDHGSKRYDSLKIEE----RDP---------------LFVANVGDYYSGLAKAGSA</Hsp_qseq>
+              <Hsp_hseq>PQVALFGVFDGHGGKNAAEFAAENMPKFM---AEELKKVNGGEIEGAVKRGYLKTDEEFLKRDESGGACCVTAVLQKGGLFVSNAGDCRAVLSRAGKA</Hsp_hseq>
+              <Hsp_midline>P++ + G+  G     AA+ +  N+ K M    E+L++ + G   G+ +   LK +E    RD                LFV+N GD  + L++AG A</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|4966</Hit_id>
+          <Hit_def>@Setaria_italica@_Si001663m|PACid:19678336 </Hit_def>
+          <Hit_accession>4966</Hit_accession>
+          <Hit_len>408</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>31.5722</Hsp_bit-score>
+              <Hsp_score>70</Hsp_score>
+              <Hsp_evalue>1.64689</Hsp_evalue>
+              <Hsp_query-from>183</Hsp_query-from>
+              <Hsp_query-to>212</Hsp_query-to>
+              <Hsp_hit-from>373</Hsp_hit-from>
+              <Hsp_hit-to>402</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>14</Hsp_identity>
+              <Hsp_positive>18</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>30</Hsp_align-len>
+              <Hsp_qseq>PHLFQFVPNERQVKAANKLLKSMPQNGKTQ</Hsp_qseq>
+              <Hsp_hseq>PHLFNFKPNELRGVPMEFLMKLIPQHAKKQ</Hsp_hseq>
+              <Hsp_midline>PHLF F PNE +      L+K +PQ+ K Q</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|4965</Hit_id>
+          <Hit_def>@Setaria_italica@_Si001662m|PACid:19678335 </Hit_def>
+          <Hit_accession>4965</Hit_accession>
+          <Hit_len>408</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>31.5722</Hsp_bit-score>
+              <Hsp_score>70</Hsp_score>
+              <Hsp_evalue>1.64689</Hsp_evalue>
+              <Hsp_query-from>183</Hsp_query-from>
+              <Hsp_query-to>212</Hsp_query-to>
+              <Hsp_hit-from>373</Hsp_hit-from>
+              <Hsp_hit-to>402</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>14</Hsp_identity>
+              <Hsp_positive>18</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>30</Hsp_align-len>
+              <Hsp_qseq>PHLFQFVPNERQVKAANKLLKSMPQNGKTQ</Hsp_qseq>
+              <Hsp_hseq>PHLFNFKPNELRGVPMEFLMKLIPQHAKKQ</Hsp_hseq>
+              <Hsp_midline>PHLF F PNE +      L+K +PQ+ K Q</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>40599</Statistics_db-num>
+          <Statistics_db-len>15313923</Statistics_db-len>
+          <Statistics_hsp-len>105</Statistics_hsp-len>
+          <Statistics_eff-space>4685635872</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>
